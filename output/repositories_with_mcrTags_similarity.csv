@@ -1,0 +1,903 @@
+repositoryName1,repositoryName2,intersection,similarity
+JodaOrg/joda-time,luaj/luaj,"[junit, testing]",1.0
+alibaba/cooma,zeroturnaround/zt-zip,"[api, bridge, junit, logging, slf4j, testing]",0.86
+grundid/nfctools,streamsets/tutorials,"[api, bridge, junit, logging, slf4j, testing]",0.75
+HyDevelop/PicqBotX,yago-naga/yago3,"[junit, testing]",1.0
+awslabs/multi-model-server,eclipsesource/J2V8,"[junit, mock, mocking, testing]",1.0
+JunzhouLiu/BILIBILI-HELPER,jeevatkm/digitalocean-api-java,"[apache, api, client, google, http, json, junit, logging, slf4j, testing]",0.83
+NLPchina/nlp-lang,conversant/disruptor,"[api, junit, logging, slf4j, testing]",0.83
+JodaOrg/joda-time,irmen/Pyrolite,"[junit, testing]",1.0
+andytill/erlyberly,zeromq/jeromq,"[junit, testing]",1.0
+bootique/bootique,kohsuke/file-leak-detector,"[cli, io, junit, parser, testing]",0.71
+TNG/JGiven,lukaszlenart/launch4j-maven-plugin,"[annotations, apache, api, build, build-system, junit, maven, model, plugin, testing, tools]",0.92
+apavlo/h-store,awslabs/multi-model-server,"[junit, mocking, testing]",0.75
+bengtmartensson/IrScrutinizer,jhalterman/expiringmap,"[testing, testng]",1.0
+apache/commons-fileupload,jfree/jfreechart-fse,"[api, javax, junit, servlet, specs, standard, testing]",0.78
+hazelcast/hazelcast,hazelcast/hazelcast-jet,"[agent, amazon, amqp, analysis, annotations, apache, api, assertion, avro, aws, azure, base64, binding, bridge, bundle, bytecode, cache, classpath, cli, client, cloud, codec, collections, column, command-line, commons, compression, connector, console, coordination, csv, database, date, defect, dependency-injection, distributed, driver, elastic, elasticsearch, embedded, encoding, encryption, engine, github, google, grpc, hadoop, hazelcast, http, io, javax, jdbc, jms, jmx, json, junit, jvm, kafka, kotlin, kubernetes, language, library, logging, mapreduce, matching, metadata, mock, mocking, module, mysql, osgi, parquet, parser, postgresql, prometheus, protocol, python, quality, queue, rabbitmq, reader, reflection, registry, rest, rpc, rules, s3, schema, sdk, search, serialization, server, slf4j, specs, spring, sql, standard, streaming, structures, support, system, terminal, testing, time, transport, web, xml, yaml, zookeeper]",0.77
+hoijui/JavaOSC,vasia/gelly-streaming,"[bridge, junit, logging, slf4j, testing]",0.71
+TNG/JGiven,coveooss/fmt-maven-plugin,"[annotations, apache, api, build, build-system, junit, maven, model, plugin, testing, tools]",0.85
+laforge49/JActor,whitesock/open-replicator,"[api, junit, logging, slf4j, testing]",0.83
+JodaOrg/joda-money,taksan/skype-java-api,"[junit, testing]",1.0
+apache/commons-dbutils,eclipsesource/J2V8,"[junit, mock, mocking, testing]",0.8
+conversant/disruptor,laforge49/JActor,"[api, junit, logging, slf4j, testing]",0.83
+cucumber-attic/gherkin2,eclipsesource/J2V8,"[junit, mock, mocking, testing]",1.0
+apavlo/h-store,jkuhnert/ognl,"[junit, mocking, testing]",0.75
+JodaOrg/joda-beans,greenrobot/essentials,"[google, junit, testing]",0.75
+SAP/SapMachine,openjdk/loom,"[api, file-system, ide, interface, junit, layout, loader, module, netbeans, swing, testing, ui, visual]",0.81
+laforge49/JActor,tzaeschke/ode4j,"[api, junit, logging, slf4j, testing]",0.83
+JodaOrg/joda-money,JodaOrg/joda-time,"[junit, testing]",1.0
+jhy/jsoup,kevinsawicki/http-request,"[eclipse, jetty, junit, server, servlet, testing, web, webserver]",0.73
+anshooarora/extentreports-java,extent-framework/extentreports-java,"[apache, client, database, driver, engine, google, http, json, mime, mongodb, template, testing, testng]",0.72
+pivovarit/throwing-function,restfb/restfb,"[api, assertion, engine, junit, logging, quality, slf4j, testing]",0.89
+HyDevelop/PicqBotX,NoCheatPlus/NoCheatPlus,"[junit, testing]",1.0
+gradle/oreilly-gradle-book-examples,guxingke/mini-jvm,"[junit, logging, testing]",0.75
+sviperll/adt4j,yegor256/cactoos,"[analysis, annotations, defect, google, junit, metadata, testing]",0.78
+NLPchina/nlp-lang,jitlogic/zorka,"[api, junit, logging, slf4j, testing]",0.71
+maxmind/geoip-api-java,romankh3/image-comparison,"[junit, mock, mocking, testing]",0.8
+Asqatasun/Asqatasun,Tanaguru/Tanaguru,"[annotations, aop, apache, api, aspect, base64, beans, bridge, build, build-system, bytecode, cache, cli, client, codec, collections, command-line, commons, config, connector, css, csv, database, dependency-injection, driver, embedded, encoding, engine, expression, font, framework, hibernate, hsql, html, http, instrumentation, io, javax, jdbc, jpa, json, jsp, junit, language, logging, mail, mapping, maven, migration, mock, mocking, model, mvc, mysql, orm, parser, persistence, plugin, pool, pooling, provider, relational, remote, runner, security, selenium, server, servlet, slf4j, specs, spring, sql, standard, structures, styles, support, tabular, taglib, template, testing, tomcat, tools, transaction, upload, validation, web, webserver, webservice, xml, xpath]",0.79
+indvd00m/java-ascii-render,romankh3/image-comparison,"[api, junit, mock, mocking, testing]",0.83
+elBukkit/MagicPlugin,spotify/futures-extra,"[api, google, mock, mocking, testing]",0.71
+HyDevelop/PicqBotX,ktuukkan/marine-api,"[junit, testing]",1.0
+apavlo/h-store,tbsalling/aismessages,"[junit, mocking, testing]",0.75
+kokorin/Jaffree,sleberknight/zookeeper-samples,"[apache, api, bridge, io, junit, logging, slf4j, testing]",0.73
+lerry903/RuoYi,seagull1985/LuckyFrameWeb,"[apache, api, cache, engine, framework, github, html, io, parser, persistence, security, spring, starter, swagger, template, ui, upload]",0.71
+bulldog2011/bigqueue,dlsc-software-consulting-gmbh/PreferencesFX,"[api, bridge, google, junit, logging, mock, mocking, slf4j, testing]",0.75
+Tencent/RapidView,dlsc-software-consulting-gmbh/FormsFX,"[junit, testing]",1.0
+JodaOrg/joda-time,perlundq/yajsync,"[junit, testing]",1.0
+arteam/100-Java-Concurrency-questions,uber/h3-java,"[benchmark, generator, junit, performance, testing]",0.83
+alibaba/cooma,whitesock/open-replicator,"[api, junit, logging, slf4j, testing]",0.71
+amaembo/streamex,yahoo/Oak,"[benchmark, generator, junit, performance, testing]",0.71
+TheHolyWaffle/TeamSpeak-3-Java-API,j256/simplemagic,"[api, junit, logging, slf4j, testing]",0.71
+apache/commons-lang,spotify/completable-futures,"[analysis, benchmark, generator, google, junit, matching, mocking, performance, testing]",0.9
+sleberknight/zookeeper-samples,sofastack/sofa-common-tools,"[apache, api, bridge, io, junit, logging, slf4j, testing]",0.73
+JodaOrg/joda-time,taksan/skype-java-api,"[junit, testing]",1.0
+MobilityData/gtfs-realtime-bindings,pokemongo-dev-contrib/pokemongo-game-master,"[google, junit, protocol, serialization, testing]",1.0
+socketio/engine.io-client-java,upyun/java-sdk,"[client, http, json, junit, testing]",0.71
+apache/commons-imaging,jboss-javassist/javassist,"[junit, matching, testing]",0.75
+AdoptOpenJDK/jitwatch,jhg023/SimpleNet,"[api, junit, logging, slf4j, testing]",0.71
+NLPchina/nlp-lang,zeroturnaround/zt-zip,"[api, junit, logging, slf4j, testing]",0.71
+SQLDroid/SQLDroid,square/protoparser,"[assertion, google, junit, quality, testing]",0.71
+ObjectLayout/ObjectLayout,yahoo/Oak,"[benchmark, generator, junit, performance, testing]",0.71
+julman99/gson-fire,vdurmont/emoji-java,"[json, junit, testing]",0.75
+reactiverse/es4x,vert-x3/vertx-stack,"[amqp, apache, api, authentication, bridge, build, build-system, cache, camel, cassandra, client, config, connector, consul, database, directory, discovery, docker, driver, eventbus, factory, git, graphql, grpc, hazelcast, http, io, jdbc, jmx, json, junit, jwt, kafka, kubernetes, ldap, logging, mail, mapping, maven, messaging, metrics, mongodb, mqtt, mysql, network, oauth, prometheus, protocol, provider, proxy, queue, rabbitmq, reactive, redis, registry, rpc, schema, scm, security, server, service, shell, slf4j, spring, sql, streaming, tcp, template, testing, tracing, transport, validation, vertx, web, yaml, zookeeper]",0.72
+irmen/Pyrolite,yago-naga/yago3,"[junit, testing]",1.0
+gardncl/elements-of-programming-interviews,maxmind/geoip-api-java,"[junit, mock, mocking, testing]",0.8
+opendatalab-de/geojson-jackson,spoofzu/DeepViolet,"[binding, json, junit, mock, mocking, testing]",0.75
+poetix/protonpack,shekhargulati/99-problems,"[junit, matching, testing]",1.0
+pac4j/spring-security-pac4j,thymeleaf/thymeleaf-extras-springsecurity,"[api, config, javax, security, servlet, specs, spring, standard, web]",0.75
+huaban/jieba-analysis,oracle/pgql-lang,"[apache, commons, junit, testing]",1.0
+boncey/Flickr4Java,fluent/fluent-logger-java,"[api, junit, logging, slf4j, testing]",0.71
+boncey/Flickr4Java,jhg023/SimpleNet,"[api, github, junit, logging, slf4j, testing]",0.86
+NLPchina/nlp-lang,roundrop/facebook4j,"[api, junit, logging, slf4j, testing]",0.71
+JitseB/NPCLib,NEZNAMY/TAB,"[api, framework, io, netty, network, socket]",0.75
+grundid/nfctools,sofastack/sofa-common-tools,"[api, bridge, junit, logging, slf4j, testing]",0.75
+LinShunKang/MyPerf4J,thomasmueller/minperf,"[benchmark, generator, junit, performance, testing]",0.83
+AdoptOpenJDK/openjdk-jdk,SAP/SapMachine,"[api, file-system, ide, interface, junit, layout, loader, module, netbeans, swing, testing, ui, visual]",1.0
+ElectronicChartCentre/java-vector-tile,pokemongo-dev-contrib/pokemongo-game-master,"[google, junit, protocol, serialization, testing]",1.0
+TheHolyWaffle/TeamSpeak-3-Java-API,laforge49/JActor,"[api, junit, logging, slf4j, testing]",0.83
+awslabs/multi-model-server,romankh3/image-comparison,"[junit, mock, mocking, testing]",0.8
+AdoptOpenJDK/jitwatch,roundrop/facebook4j,"[api, junit, logging, slf4j, testing]",0.83
+ThreeTen/threeten-extra,jfree/jfreechart,"[api, engine, junit, testing]",0.8
+MGunlogson/CuckooFilter4J,abel533/ECharts,"[google, junit, testing]",0.75
+roundrop/facebook4j,zeroturnaround/zt-zip,"[api, bridge, junit, logging, slf4j, testing]",1.0
+graalvm/simplelanguage,mr-hashemi/mr-hashemi,"[api, compiler, dsl, junit, parser, processor, runtime, sdk, testing]",0.82
+elunez/eladmin,guchengwuyue/yshopmall,"[annotations, apache, api, commons, config, dependency-injection, excel, github, io, javax, json, mail, model, network, parser, pooling, processor, sdk, specs, spreadsheet, spring, ssh, standard, starter, swagger, ui, xml]",0.71
+alibaba/cooma,bulldog2011/bigqueue,"[api, bridge, junit, logging, mocking, slf4j, testing]",0.78
+andytill/erlyberly,giltene/jHiccup,"[junit, testing]",1.0
+ElectronicChartCentre/java-vector-tile,MobilityData/gtfs-realtime-bindings,"[google, junit, protocol, serialization, testing]",1.0
+romankh3/image-comparison,spotify/futures-extra,"[api, junit, mock, mocking, testing]",0.83
+HdrHistogram/HdrHistogram,optimatika/ojAlgo,"[api, benchmark, engine, generator, junit, performance, testing]",1.0
+Esri/geometry-api-java,jsonzou/jmockdata,"[json, junit, testing]",1.0
+giltene/jHiccup,ktuukkan/marine-api,"[junit, testing]",1.0
+jfree/jfreechart,jfree/jfreesvg,"[api, engine, junit, testing]",1.0
+bulldog2011/bigqueue,tomighty/tomighty,"[api, google, junit, logging, mock, mocking, slf4j, testing]",0.73
+jfree/jfreechart-fse,tbroyer/gwt-maven-archetypes,"[api, javax, servlet, specs, standard]",0.71
+grundid/nfctools,kokorin/Jaffree,"[api, bridge, junit, logging, slf4j, testing]",0.75
+cucumber-attic/gherkin2,stateless4j/stateless4j,"[junit, mock, mocking, testing]",1.0
+boncey/Flickr4Java,hoijui/JavaOSC,"[api, junit, logging, slf4j, testing]",0.71
+Tencent/RapidView,mpatric/mp3agic,"[junit, testing]",1.0
+amaembo/streamex,optimatika/ojAlgo,"[benchmark, generator, junit, performance, testing]",0.71
+stateless4j/stateless4j,tbsalling/aismessages,"[junit, mock, mocking, testing]",1.0
+apache/commons-imaging,vanilladb/vanillacore,"[io, junit, testing]",0.75
+Tencent/RapidView,ktuukkan/marine-api,"[junit, testing]",1.0
+dlsc-software-consulting-gmbh/FormsFX,irmen/Pyrolite,"[junit, testing]",1.0
+ktuukkan/marine-api,yago-naga/yago3,"[junit, testing]",1.0
+streamsupport/streamsupport,ymartineau/peers,"[junit, testing, testng]",1.0
+paritytrading/parity,paritytrading/philadelphia,"[apache, benchmark, command-line, commons, config, date, generator, junit, performance, reader, testing, time, typesafe]",0.87
+mpatric/mp3agic,yago-naga/yago3,"[junit, testing]",1.0
+JodaOrg/joda-time,Tencent/RapidView,"[junit, testing]",1.0
+jkuhnert/ognl,zeromq/jzmq,"[junit, mocking, testing]",0.75
+ObjectLayout/ObjectLayout,robinst/autolink-java,"[benchmark, junit, performance, testing]",0.8
+AdoptOpenJDK/jitwatch,hoijui/JavaOSC,"[api, junit, logging, slf4j, testing]",0.83
+ktuukkan/marine-api,taksan/skype-java-api,"[junit, testing]",1.0
+whitesock/open-replicator,zeroturnaround/zt-zip,"[api, junit, logging, slf4j, testing]",0.83
+McFoggy/cssfx,unitsofmeasurement/unit-api,"[engine, junit, testing]",0.75
+HyDevelop/PicqBotX,dlsc-software-consulting-gmbh/FormsFX,"[junit, testing]",1.0
+TNG/JGiven,warmuuh/libsass-maven-plugin,"[apache, api, build, build-system, junit, maven, model, plugin, testing, tools]",0.71
+TheHolyWaffle/TeamSpeak-3-Java-API,kaitoy/pcap4j,"[api, junit, logging, slf4j, testing]",0.71
+AdoptOpenJDK/jitwatch,TooTallNate/Java-WebSocket,"[api, junit, logging, slf4j, testing]",0.83
+bergerhealer/TrainCarts,gturri/aXMLRPC,"[github, junit, testing]",0.75
+FastFilter/fastfilter_java,yellowstonegames/SquidLib,"[benchmark, generator, github, junit, performance, testing]",0.75
+ahorn/android-rss,mcxiaoke/android-volley,"[android, google, junit, platform, testing]",0.71
+irmen/Pyrolite,luaj/luaj,"[junit, testing]",1.0
+arteam/100-Java-Concurrency-questions,yellowstonegames/SquidLib,"[benchmark, generator, junit, performance, testing]",0.71
+maxmind/geoip-api-java,tbsalling/aismessages,"[junit, mock, mocking, testing]",1.0
+beckchr/juel,unitsofmeasurement/unit-api,"[api, junit, testing]",0.75
+beckchr/juel,bergerhealer/TrainCarts,"[api, junit, testing]",0.75
+petitparser/java-petitparser,poetix/protonpack,"[junit, matching, testing]",0.75
+apavlo/h-store,eclipsesource/J2V8,"[junit, mocking, testing]",0.75
+fabian7593/MagicalCamera,geometer/FBReader-Android-2,"[android, google, platform, support]",0.8
+PanicInitiative/PanicButton,mcxiaoke/android-volley,"[android, google, junit, mock, mocking, platform, testing]",0.88
+JodaOrg/joda-beans,abel533/ECharts,"[google, junit, testing]",0.75
+cybergarage/cybergarage-upnp,mvel/mvel,"[junit, testing, xml]",0.75
+NoCheatPlus/NoCheatPlus,luaj/luaj,"[junit, testing]",1.0
+TheHolyWaffle/TeamSpeak-3-Java-API,hoijui/JavaOSC,"[api, junit, logging, slf4j, testing]",0.83
+ObjectLayout/ObjectLayout,amaembo/streamex,"[benchmark, generator, junit, performance, testing]",1.0
+MGunlogson/CuckooFilter4J,taycaldwell/riot-api-java,"[google, junit, testing]",0.75
+HdrHistogram/HdrHistogram,mikera/vectorz,"[api, benchmark, engine, junit, performance, testing]",0.75
+WorksApplications/Sudachi,mwanji/toml4j,"[json, junit, library, matching, testing]",0.71
+NoCheatPlus/NoCheatPlus,giltene/jHiccup,"[junit, testing]",1.0
+luaj/luaj,zeromq/jeromq,"[junit, testing]",1.0
+eclipsesource/J2V8,vdurmont/semver4j,"[junit, mock, mocking, testing]",1.0
+abel533/ECharts,taycaldwell/riot-api-java,"[google, json, junit, testing]",1.0
+eBay/cors-filter,knowm/Sundial,"[api, javax, junit, servlet, specs, standard, testing]",0.78
+apavlo/h-store,vdurmont/semver4j,"[junit, mocking, testing]",0.75
+JodaOrg/joda-beans,microsoft/vscode-java-debug,"[google, junit, testing]",0.75
+hoijui/JavaOSC,sbtourist/Journal.IO,"[api, bridge, junit, logging, slf4j, testing]",0.75
+apache/commons-imaging,shekhargulati/99-problems,"[junit, matching, testing]",0.75
+AdoptOpenJDK/jitwatch,laforge49/JActor,"[api, junit, logging, slf4j, testing]",0.83
+jnr/jnr-posix,jnr/jnr-unixsocket,"[github, junit, native, testing]",0.8
+eclipsesource/J2V8,stateless4j/stateless4j,"[junit, mock, mocking, testing]",1.0
+dlsc-software-consulting-gmbh/FormsFX,ktuukkan/marine-api,"[junit, testing]",1.0
+AdoptOpenJDK/jitwatch,grundid/nfctools,"[api, junit, logging, slf4j, testing]",0.83
+krasa/MavenHelper,slyak/spring-data-jpa-extra,"[apache, beans, commons, reflection]",0.8
+tcurdt/jdeb,trivago/cucable-plugin,"[annotations, apache, api, build, build-system, commons, io, junit, maven, mock, mocking, model, plugin, testing, tools]",0.75
+grundid/nfctools,zeroturnaround/zt-zip,"[api, bridge, junit, logging, slf4j, testing]",1.0
+perlundq/yajsync,yago-naga/yago3,"[junit, testing]",1.0
+abstractj/kalium,javadev/underscore-java,"[github, junit, testing]",0.75
+mr-hashemi/mr-hashemi,oracle/graal,"[api, compiler, dsl, junit, parser, processor, runtime, sdk, testing]",0.82
+gluonhq/gluonfx-maven-plugin,openjfx/javafx-maven-plugin,"[annotations, apache, api, build, build-system, codehaus, command, commons, connector, eclipse, execution, external, http, maven, model, plugin, process, provider, tools, transport]",0.8
+HdrHistogram/HdrHistogram,arteam/100-Java-Concurrency-questions,"[benchmark, generator, junit, performance, testing]",0.71
+AdoptOpenJDK/jitwatch,whitesock/open-replicator,"[api, junit, logging, slf4j, testing]",1.0
+kokorin/Jaffree,vasia/gelly-streaming,"[apache, bridge, junit, logging, slf4j, testing]",0.75
+abstractj/kalium,gturri/aXMLRPC,"[github, junit, testing]",0.75
+NLPchina/nlp-lang,zeroturnaround/zt-exec,"[apache, api, junit, logging, slf4j, testing]",0.75
+HdrHistogram/HdrHistogram,ObjectLayout/ObjectLayout,"[benchmark, generator, junit, performance, testing]",0.71
+garbagemule/MobArena,gardncl/elements-of-programming-interviews,"[junit, matching, mock, mocking, testing]",0.83
+awslabs/multi-model-server,cucumber-attic/gherkin2,"[junit, mock, mocking, testing]",1.0
+AdoptOpenJDK/jitwatch,guxingke/mini-jvm,"[junit, logging, slf4j, testing]",0.8
+Tencent/RapidView,irmen/Pyrolite,"[junit, testing]",1.0
+OpenHFT/Zero-Allocation-Hashing,sviperll/adt4j,"[analysis, annotations, defect, google, junit, metadata, testing]",0.78
+kiegroup/droolsjbpm-knowledge,zeroturnaround/zt-zip,"[bridge, junit, logging, slf4j, testing]",0.83
+alibaba/cooma,grundid/nfctools,"[api, bridge, junit, logging, slf4j, testing]",0.86
+TheHolyWaffle/TeamSpeak-3-Java-API,jitlogic/zorka,"[api, junit, logging, slf4j, testing]",0.83
+Polve/bitcoin-rpc-client,ozlerhakan/poiji,"[apache, junit, testing]",0.75
+sofastack/sofa-common-tools,zeroturnaround/zt-exec,"[apache, api, io, junit, logging, slf4j, testing]",0.78
+Thomas-S-B/visualee,lukaszlenart/launch4j-maven-plugin,"[apache, api, build, build-system, junit, maven, model, plugin, testing, tools]",0.77
+apache/commons-codec,oracle/pgql-lang,"[apache, commons, junit, testing]",1.0
+ktuukkan/marine-api,perlundq/yajsync,"[junit, testing]",1.0
+kennyk65/Microservices-With-Spring-Student-Files,martinpaljak/ant-javacard,"[ant, apache, build, tools]",0.8
+MGunlogson/CuckooFilter4J,microsoft/vscode-java-debug,"[google, junit, testing]",0.75
+ctongfei/progressbar,whitesock/open-replicator,"[api, junit, logging, slf4j, testing]",0.71
+NoCheatPlus/NoCheatPlus,zeromq/jeromq,"[junit, testing]",1.0
+awspring/spring-cloud-aws,spring-cloud/spring-cloud-aws,"[amazon, apache, api, aws, cache, client, cloud, cluster, computing, config, javax, jdbc, mail, manager, messaging, sdk, server, specs, spring, sql, standard, starter, tomcat, webserver]",0.96
+cheese10yun/spring-guide,karcan/javaBootcamp,"[api, io, swagger, ui]",1.0
+fasseg/exp4j,guxingke/mini-jvm,"[junit, logging, testing]",0.75
+kiegroup/droolsjbpm-knowledge,vasia/gelly-streaming,"[bridge, junit, logging, slf4j, testing]",0.83
+inmite/android-validation-komensky,kevinsawicki/wishlist,"[android, google, junit, platform, support, testing]",0.75
+cucumber-attic/gherkin2,stleary/JSON-java,"[junit, mock, mocking, testing]",0.8
+Password4j/password4j,conversant/disruptor,"[api, junit, logging, slf4j, testing]",0.71
+apache/commons-dbutils,stateless4j/stateless4j,"[junit, mock, mocking, testing]",0.8
+liuweijw/fw-cloud-framework,loda-kun/spring-boot-learning,"[apache, api, cloud, commons, connector, database, driver, hibernate, io, json, jwt, mapping, mysql, persistence, relational, security, server, spring, starter, swagger, ui, validation]",0.71
+JetBrains/intellij-plugins,cucumber/cucumber-java-skeleton,"[io, junit, testing]",1.0
+JetBrains/intellij-plugins,MarkShen1992/Mashibing_High_Concurrency,"[io, junit, testing]",0.75
+openjdk/loom,openjdk/panama-foreign,"[api, file-system, ide, interface, junit, layout, loader, module, netbeans, swing, testing, ui, visual]",0.81
+taycaldwell/riot-api-java,vdurmont/emoji-java,"[json, junit, testing]",0.75
+mscharhag/oleaster,poetix/protonpack,"[junit, matching, testing]",0.75
+pgjdbc/r2dbc-postgresql,r2dbc/r2dbc-mssql,"[analysis, assertion, google, interface, io, jdbc, junit, logging, mock, mocking, platform, pool, quality, spring, sql, testing, tools]",0.77
+jfree/jfreesvg,unitsofmeasurement/unit-api,"[api, engine, junit, testing]",1.0
+TooTallNate/Java-WebSocket,roundrop/facebook4j,"[api, junit, logging, slf4j, testing]",0.71
+grundid/nfctools,roundrop/facebook4j,"[api, bridge, junit, logging, slf4j, testing]",1.0
+liuyangming/ByteJTA,liuyangming/ByteTCC,"[annotations, aop, apache, api, aspect, binding, buffer, bytecode, client, cloud, codec, commons, communication, config, coordination, data, database, dependency-injection, distributed, driver, exception, framework, http, io, javax, jdbc, jms, json, logging, mongodb, mvc, native, netty, network, nosql, queue, reactive, remoting, resource, server, servlet, slf4j, socket, specs, spring, sql, standard, starter, streaming, transaction, transport, web, zookeeper]",0.84
+conversant/disruptor,guxingke/mini-jvm,"[junit, logging, slf4j, testing]",0.8
+conversant/disruptor,timrdf/csv2rdf4lod-automation,"[api, junit, logging, slf4j, testing]",0.71
+conversant/disruptor,roundrop/facebook4j,"[api, junit, logging, slf4j, testing]",0.83
+cucumber-attic/gherkin2,tbsalling/aismessages,"[junit, mock, mocking, testing]",1.0
+ObjectLayout/ObjectLayout,thomasmueller/minperf,"[benchmark, generator, junit, performance, testing]",1.0
+conversant/disruptor,jitlogic/zorka,"[api, junit, logging, slf4j, testing]",0.83
+steveohara/j2mod,zeroturnaround/zt-process-killer,"[apache, api, command, commons, execution, external, junit, logging, process, slf4j, testing]",0.79
+AdoptOpenJDK/jitwatch,tzaeschke/ode4j,"[api, junit, logging, slf4j, testing]",1.0
+OWASP/json-sanitizer,aionnetwork/aion,"[google, junit, testing]",0.75
+stefan-zobel/streamsupport,streamsupport/streamsupport,"[junit, testing, testng]",1.0
+joshjdevl/libsodium-jni,julman99/gson-fire,"[google, junit, testing]",0.75
+stateless4j/stateless4j,stleary/JSON-java,"[junit, mock, mocking, testing]",0.8
+arteam/100-Java-Concurrency-questions,optimatika/ojAlgo,"[benchmark, generator, junit, performance, testing]",0.71
+JodaOrg/joda-money,irmen/Pyrolite,"[junit, testing]",1.0
+AdoptOpenJDK/openjdk-jdk,openjdk/valhalla,"[api, file-system, ide, interface, junit, layout, loader, module, netbeans, swing, testing, ui, visual]",1.0
+arteam/100-Java-Concurrency-questions,arturmkrtchyan/iban4j,"[benchmark, junit, performance, testing]",0.8
+mpatric/mp3agic,zeromq/jeromq,"[junit, testing]",1.0
+MGunlogson/CuckooFilter4J,OWASP/json-sanitizer,"[google, junit, testing]",0.75
+NoCheatPlus/NoCheatPlus,irmen/Pyrolite,"[junit, testing]",1.0
+alibaba/cooma,roundrop/facebook4j,"[api, bridge, junit, logging, slf4j, testing]",0.86
+stefan-zobel/streamsupport,ymartineau/peers,"[junit, testing, testng]",1.0
+cucumber-attic/gherkin2,gardncl/elements-of-programming-interviews,"[junit, mock, mocking, testing]",0.8
+ipfs-shipyard/java-ipfs-http-client,jboss-javassist/javassist,"[junit, matching, testing]",0.75
+AdoptOpenJDK/jitwatch,plutext/docx4j-ImportXHTML,"[api, junit, logging, slf4j, testing]",0.71
+jhg023/SimpleNet,tzaeschke/ode4j,"[api, junit, logging, slf4j, testing]",0.71
+apache/commons-dbutils,gardncl/elements-of-programming-interviews,"[junit, matching, mock, mocking, testing]",1.0
+Polve/bitcoin-rpc-client,ls1intum/Artemis,"[apache, commons, testing]",0.75
+SAP/SapMachine,openjdk/valhalla,"[api, file-system, ide, interface, junit, layout, loader, module, netbeans, swing, testing, ui, visual]",1.0
+ObjectLayout/ObjectLayout,uber/h3-java,"[benchmark, generator, junit, performance, testing]",0.83
+boncey/Flickr4Java,whitesock/open-replicator,"[api, junit, logging, slf4j, testing]",0.83
+patrickfav/uber-adb-tools,patrickfav/uber-apk-signer,"[ant, apache, build, cli, command-line, parser, tools]",0.88
+ctongfei/progressbar,tzaeschke/ode4j,"[api, junit, logging, slf4j, testing]",0.71
+bergerhealer/TrainCarts,javadev/underscore-java,"[github, junit, testing]",0.75
+LinShunKang/MyPerf4J,uber/h3-java,"[benchmark, generator, junit, performance, testing]",0.71
+SQLDroid/SQLDroid,square/burst,"[assertion, google, junit, quality, testing]",0.71
+Esri/geometry-api-java,microsoft/vscode-java-debug,"[json, junit, testing]",0.75
+openjdk/jdk,openjdk/panama-foreign,"[api, file-system, ide, interface, junit, layout, loader, module, netbeans, swing, testing, ui, visual]",1.0
+andytill/erlyberly,perlundq/yajsync,"[junit, testing]",1.0
+elennick/retry4j,nurkiewicz/async-retry,"[api, assertion, logging, mock, mocking, quality, slf4j, testing, testng]",1.0
+JakeWharton/DiskLruCache,SonarSource/sonar-scanner-gradle,"[assertion, io, junit, quality, testing]",0.71
+LinShunKang/MyPerf4J,amaembo/streamex,"[benchmark, generator, junit, performance, testing]",0.83
+abel533/ECharts,julman99/gson-fire,"[google, json, junit, testing]",1.0
+ObjectLayout/ObjectLayout,optimatika/ojAlgo,"[benchmark, generator, junit, performance, testing]",0.71
+AdoptOpenJDK/jitwatch,NLPchina/nlp-lang,"[api, junit, logging, slf4j, testing]",0.83
+tbsalling/aismessages,vdurmont/semver4j,"[junit, mock, mocking, testing]",1.0
+giltene/jHiccup,perlundq/yajsync,"[junit, testing]",1.0
+Bukkit/Bukkit,SpigotMC/Spigot-API,"[google, json, junit, library, matching, testing, yaml]",1.0
+LinShunKang/MyPerf4J,arteam/100-Java-Concurrency-questions,"[benchmark, generator, junit, performance, testing]",0.83
+boncey/Flickr4Java,laforge49/JActor,"[api, junit, logging, slf4j, testing]",0.71
+coveooss/fmt-maven-plugin,jeluard/semantic-versioning,"[apache, api, build, build-system, google, junit, maven, model, plugin, testing, tools]",0.73
+JodaOrg/joda-time,yago-naga/yago3,"[junit, testing]",1.0
+perlundq/yajsync,taksan/skype-java-api,"[junit, testing]",1.0
+jOOQ/jOOX,julietkilo/CANBabel,"[api, binding, javax, junit, specs, standard, testing, xml]",0.8
+NLPchina/nlp-lang,fluent/fluent-logger-java,"[api, junit, logging, slf4j, testing]",0.71
+yago-naga/yago3,zeromq/jeromq,"[junit, testing]",1.0
+alibaba/cooma,j256/simplemagic,"[api, junit, logging, mocking, slf4j, testing]",0.75
+FastFilter/fastfilter_java,thomasmueller/minperf,"[benchmark, generator, junit, performance, testing]",0.71
+jboss-javassist/javassist,poetix/protonpack,"[junit, matching, testing]",1.0
+HyDevelop/PicqBotX,luaj/luaj,"[junit, testing]",1.0
+SpigotMC/Spigot-API,mwanji/toml4j,"[google, json, junit, library, matching, testing]",0.86
+sealedtx/java-youtube-downloader,verhas/License3j,"[engine, junit, mock, mocking, testing]",0.71
+andrew-hoffman/halfnes,zhuowei/RaspberryJuice,"[mocking, testing, testng]",0.75
+playn/playn,threerings/playn,"[android, eclipse, engine, framework, google, gwt, html, interface, junit, library, logging, math, messaging, physics, platform, swt, testing, ui, web, webgl, websocket, x86]",0.73
+JitseB/NPCLib,ViaVersion/ViaRewind,"[api, framework, io, netty, network, socket]",0.75
+eBay/cors-filter,javaee/jax-rs-api,"[api, javax, junit, specs, standard, testing]",0.75
+awslabs/multi-model-server,vdurmont/semver4j,"[junit, mock, mocking, testing]",1.0
+JMCuixy/swagger2word,karcan/javaBootcamp,"[api, io, swagger, ui]",1.0
+TheHolyWaffle/TeamSpeak-3-Java-API,ctongfei/progressbar,"[api, junit, logging, slf4j, testing]",0.71
+ewolff/microservice,spring-guides/tut-spring-boot-oauth2,"[assets, bootstrap, web]",0.75
+jboss-javassist/javassist,shekhargulati/99-problems,"[junit, matching, testing]",1.0
+hoijui/JavaOSC,whitesock/open-replicator,"[api, junit, logging, slf4j, testing]",0.83
+TheHolyWaffle/TeamSpeak-3-Java-API,plutext/docx4j-ImportXHTML,"[api, junit, logging, slf4j, testing]",0.71
+fordfrog/apgdiff,shekhargulati/99-problems,"[junit, matching, testing]",1.0
+opentelecoms-org/jsmpp,uudashr/jsmpp,"[api, base64, bridge, codec, encoding, junit, logging, slf4j, testing, testng]",1.0
+Tencent/RapidView,luaj/luaj,"[junit, testing]",1.0
+conversant/disruptor,kaitoy/pcap4j,"[api, junit, logging, slf4j, testing]",0.71
+NLPchina/nlp-lang,tzaeschke/ode4j,"[api, junit, logging, slf4j, testing]",0.83
+ObjectLayout/ObjectLayout,yellowstonegames/SquidLib,"[benchmark, generator, junit, performance, testing]",0.71
+lukaszlenart/launch4j-maven-plugin,tunnelvisionlabs/antlr4cs,"[annotations, apache, api, build, build-system, compatibility, junit, maven, model, plugin, testing, tools]",0.71
+TooTallNate/Java-WebSocket,hneemann/Digital,"[api, json, junit, logging, slf4j, testing]",0.75
+grundid/nfctools,laforge49/JActor,"[api, junit, logging, slf4j, testing]",0.71
+timrdf/csv2rdf4lod-automation,tzaeschke/ode4j,"[api, junit, logging, slf4j, testing]",0.71
+timrdf/csv2rdf4lod-automation,whitesock/open-replicator,"[api, junit, logging, slf4j, testing]",0.71
+boncey/Flickr4Java,zeroturnaround/zt-zip,"[api, junit, logging, slf4j, testing]",0.71
+MarkShen1992/Mashibing_High_Concurrency,vanilladb/vanillacore,"[io, junit, testing]",0.75
+RobotiumTech/robotium,geometer/FBReader-Android-2,"[android, google, platform, support]",0.8
+JakeWharton/ActionBarSherlock,inmite/android-validation-komensky,"[android, google, junit, library, platform, support, testing, validation]",0.73
+ahorn/android-rss,kevinsawicki/wishlist,"[android, google, junit, platform, testing]",0.83
+ozlerhakan/poiji,usb4java/usb4java,"[apache, junit, testing]",0.75
+HdrHistogram/HdrHistogram,thomasmueller/minperf,"[benchmark, generator, junit, performance, testing]",0.71
+4pr0n/ripme,RipMeApp/ripme,"[apache, cli, client, command-line, config, html, http, io, json, logging, mime, parser]",0.75
+ctripcorp/dal,ppdaicorp/das,"[apache, api, base64, bridge, bytecode, client, codec, commons, connector, container, database, dependency-injection, dom, driver, encoding, engine, filtering, github, google, http, io, javax, jdbc, json, junit, logging, mail, mock, mocking, module, mysql, persistence, pool, server, servlet, slf4j, specs, spring, sql, standard, template, testing, tomcat, webserver, webservice, xml]",0.79
+MarkShen1992/Mashibing_High_Concurrency,vdurmont/emoji-java,"[json, junit, testing]",0.75
+coveooss/fmt-maven-plugin,lukaszlenart/launch4j-maven-plugin,"[annotations, apache, api, build, build-system, compatibility, junit, maven, model, plugin, testing, tools]",0.92
+DomHeal/JavaFX-Chat,cowtowncoder/java-uuid-generator,"[api, logging, slf4j]",1.0
+ipfs-shipyard/java-ipfs-http-client,petitparser/java-petitparser,"[github, junit, matching, testing]",1.0
+hoijui/JavaOSC,kokorin/Jaffree,"[api, bridge, junit, logging, slf4j, testing]",0.75
+hoijui/JavaOSC,sofastack/sofa-common-tools,"[api, bridge, junit, logging, slf4j, testing]",0.75
+fluent/fluent-logger-java,roundrop/facebook4j,"[api, junit, logging, slf4j, testing]",0.71
+TNG/JGiven,sdbg/sdbg,"[annotations, apache, api, build, build-system, maven, model, plugin, tools]",0.75
+plutext/docx4j-ImportXHTML,whitesock/open-replicator,"[api, junit, logging, slf4j, testing]",0.71
+amaembo/streamex,thomasmueller/minperf,"[benchmark, generator, junit, performance, testing]",1.0
+laforge49/JActor,zeroturnaround/zt-zip,"[api, junit, logging, slf4j, testing]",0.71
+cternes/openkeepass,cybergarage/cybergarage-upnp,"[junit, testing, xml]",0.75
+openjdk/loom,openjdk/valhalla,"[api, file-system, ide, interface, junit, layout, loader, module, netbeans, swing, testing, ui, visual]",0.81
+chewiebug/GCViewer,gardncl/elements-of-programming-interviews,"[junit, matching, mock, mocking, testing]",0.83
+BedwarsRel/BedwarsRel,cowtowncoder/java-uuid-generator,"[api, logging, slf4j]",0.75
+TheHolyWaffle/TeamSpeak-3-Java-API,grundid/nfctools,"[api, junit, logging, slf4j, testing]",0.83
+boncey/Flickr4Java,jitlogic/zorka,"[api, junit, logging, slf4j, testing]",0.71
+MGunlogson/CuckooFilter4J,greenrobot/essentials,"[google, junit, testing]",0.75
+NoCheatPlus/NoCheatPlus,dlsc-software-consulting-gmbh/FormsFX,"[junit, testing]",1.0
+andytill/erlyberly,ktuukkan/marine-api,"[junit, testing]",1.0
+HyDevelop/PicqBotX,zeromq/jeromq,"[junit, testing]",1.0
+apache/commons-codec,thrau/jarchivelib,"[apache, commons, junit, testing]",0.8
+abel533/ECharts,aionnetwork/aion,"[google, junit, testing]",0.75
+201206030/fiction_house,didi/AgileTC,"[apache, client, commons, connector, database, driver, github, http, mysql, persistence, spring, starter]",0.71
+apache/commons-imaging,poetix/protonpack,"[junit, matching, testing]",0.75
+jagrosh/MusicBot,jagrosh/Vortex,"[config, junit, logging, matching, testing, typesafe]",1.0
+bz51/SpringBoot-Dubbo-Docker-Jenkins,xaecbd/KafkaCenter,"[google, io, json, persistence, spring, starter]",0.75
+pivovarit/parallel-collectors,pivovarit/throwing-function,"[api, assertion, engine, junit, logging, quality, slf4j, testing]",0.73
+OpenHFT/Zero-Allocation-Hashing,google/google-java-format,"[analysis, annotations, defect, google, junit, metadata, testing]",0.88
+stateless4j/stateless4j,vdurmont/semver4j,"[junit, mock, mocking, testing]",1.0
+awslabs/multi-model-server,tbsalling/aismessages,"[junit, mock, mocking, testing]",1.0
+TooTallNate/Java-WebSocket,jitlogic/zorka,"[api, junit, logging, slf4j, testing]",0.71
+andytill/erlyberly,luaj/luaj,"[junit, testing]",1.0
+HyDevelop/PicqBotX,mpatric/mp3agic,"[junit, testing]",1.0
+microsoft/vscode-java-debug,taycaldwell/riot-api-java,"[google, json, junit, testing]",1.0
+Password4j/password4j,tzaeschke/ode4j,"[api, junit, logging, slf4j, testing]",0.71
+apache/commons-codec,ozlerhakan/poiji,"[apache, junit, testing]",0.75
+NoCheatPlus/NoCheatPlus,taksan/skype-java-api,"[junit, testing]",1.0
+spotify/futures-extra,spotify/trickle,"[google, junit, mock, mocking, testing]",0.71
+apache/guacamole-client,glyptodon/guacamole-client,"[annotations, apache, api, barcode, base64, binding, bridge, client, codec, collections, container, dependency-injection, directory, eclipse, encoding, engine, extension, google, javax, jetty, json, junit, jwt, logging, mapping, messaging, module, persistence, relational, security, server, servlet, slf4j, specs, spring, standard, structures, testing, tomcat, web, webserver, webservice, websocket, xml]",1.0
+streamsets/tutorials,zeroturnaround/zt-zip,"[api, bridge, junit, logging, slf4j, testing]",0.75
+SonarSource/sonar-scanner-gradle,stefanbirkner/system-rules,"[assertion, github, io, junit, quality, testing]",0.75
+JodaOrg/joda-money,zeromq/jeromq,"[junit, testing]",1.0
+jhg023/SimpleNet,whitesock/open-replicator,"[api, junit, logging, slf4j, testing]",0.71
+NLPchina/nlp-lang,sofastack/sofa-common-tools,"[apache, api, junit, logging, slf4j, testing]",0.75
+TooTallNate/Java-WebSocket,grundid/nfctools,"[api, junit, logging, slf4j, testing]",0.71
+fluent/fluent-logger-java,zeroturnaround/zt-zip,"[api, junit, logging, slf4j, testing]",0.71
+eclipse-ee4j/grizzly,javaee/grizzly,"[apache, api, build, build-system, bundle, client, connection, framework, http, junit, maven, mock, mocking, monitoring, osgi, plugin, pooling, server, servlet, testing, webservice, websocket, xml]",0.79
+microsoft/vscode-java-debug,vdurmont/emoji-java,"[json, junit, testing]",0.75
+jsonzou/jmockdata,vdurmont/emoji-java,"[json, junit, testing]",1.0
+boncey/Flickr4Java,roundrop/facebook4j,"[api, junit, logging, slf4j, testing]",0.71
+hoijui/JavaOSC,laforge49/JActor,"[api, junit, logging, slf4j, testing]",0.71
+Polve/bitcoin-rpc-client,thrau/jarchivelib,"[apache, commons, junit, testing]",0.8
+Esri/geometry-api-java,abel533/ECharts,"[json, junit, testing]",0.75
+SAP/SapMachine,openjdk/jdk,"[api, file-system, ide, interface, junit, layout, loader, module, netbeans, swing, testing, ui, visual]",1.0
+HyDevelop/PicqBotX,giltene/jHiccup,"[junit, testing]",1.0
+cucumber-attic/gherkin2,romankh3/image-comparison,"[junit, mock, mocking, testing]",0.8
+cucumber/cucumber-java-skeleton,vanilladb/vanillacore,"[io, junit, testing]",1.0
+apache/incubator-crail,zrlio/disni,"[bridge, cli, command-line, junit, logging, parser, slf4j, testing]",0.73
+AdoptOpenJDK/openjdk-jdk,openjdk/panama-foreign,"[api, file-system, ide, interface, junit, layout, loader, module, netbeans, swing, testing, ui, visual]",1.0
+a466350665/smart-sso,tbroyer/gwt-maven-archetypes,"[api, javax, servlet, specs, standard]",0.83
+dlsc-software-consulting-gmbh/FormsFX,yago-naga/yago3,"[junit, testing]",1.0
+gardncl/elements-of-programming-interviews,tbsalling/aismessages,"[junit, mock, mocking, testing]",0.8
+robinst/autolink-java,thomasmueller/minperf,"[benchmark, junit, performance, testing]",0.8
+google/google-java-format,sviperll/adt4j,"[analysis, annotations, defect, google, junit, metadata, testing]",0.88
+plutext/docx4j-ImportXHTML,tzaeschke/ode4j,"[api, junit, logging, slf4j, testing]",0.71
+awslabs/multi-model-server,maxmind/geoip-api-java,"[junit, mock, mocking, testing]",1.0
+aionnetwork/aion,taycaldwell/riot-api-java,"[google, junit, testing]",0.75
+NLPchina/nlp-lang,Password4j/password4j,"[apache, api, junit, logging, slf4j, testing]",0.86
+aionnetwork/aion,microsoft/vscode-java-debug,"[google, junit, testing]",0.75
+antlr4ide/antlr4ide,jplag/jplag,"[compiler, generator, junit, parser, testing]",0.71
+giltene/jHiccup,yago-naga/yago3,"[junit, testing]",1.0
+chewiebug/GCViewer,garbagemule/MobArena,"[junit, matching, mock, mocking, testing]",0.71
+Progether/JAdventure,TooTallNate/Java-WebSocket,"[api, json, junit, logging, slf4j, testing]",0.75
+Tencent/RapidView,andytill/erlyberly,"[junit, testing]",1.0
+HyDevelop/PicqBotX,andytill/erlyberly,"[junit, testing]",1.0
+JodaOrg/joda-beans,julman99/gson-fire,"[google, junit, testing]",0.75
+hoijui/JavaOSC,tzaeschke/ode4j,"[api, junit, logging, slf4j, testing]",0.83
+Polve/bitcoin-rpc-client,huaban/jieba-analysis,"[apache, commons, junit, testing]",1.0
+svendiedrichsen/jollyday,verhas/License3j,"[api, engine, junit, mock, mocking, testing]",0.86
+AdoptOpenJDK/jitwatch,timrdf/csv2rdf4lod-automation,"[api, junit, logging, slf4j, testing]",0.71
+TooTallNate/Java-WebSocket,boncey/Flickr4Java,"[api, junit, logging, slf4j, testing]",0.71
+TooTallNate/Java-WebSocket,dgarijo/Widoco,"[api, json, junit, logging, slf4j, testing]",0.75
+luaj/luaj,taksan/skype-java-api,"[junit, testing]",1.0
+fluent/fluent-logger-java,whitesock/open-replicator,"[api, junit, logging, slf4j, testing]",0.83
+RobotiumTech/robotium,kevinsawicki/wishlist,"[android, google, platform, support, testing]",0.83
+peholmst/vaadin4spring,sealedtx/java-youtube-downloader,"[engine, junit, mock, mocking, testing]",0.71
+laforge49/JActor,roundrop/facebook4j,"[api, junit, logging, slf4j, testing]",0.71
+AdoptOpenJDK/jitwatch,boncey/Flickr4Java,"[api, junit, logging, slf4j, testing]",0.83
+Ekryd/sortpom,TimMoore/mojo-executor,"[annotations, apache, api, build, build-system, junit, logging, matching, maven, mock, mocking, model, plugin, slf4j, testing, tools]",0.73
+amaembo/streamex,robinst/autolink-java,"[benchmark, junit, performance, testing]",0.8
+TheHolyWaffle/TeamSpeak-3-Java-API,alibaba/cooma,"[api, junit, logging, slf4j, testing]",0.71
+hoijui/JavaOSC,jitlogic/zorka,"[api, junit, logging, slf4j, testing]",0.71
+games647/ChangeSkin,games647/FastLogin,"[bridge, config, google, jdbc, json, junit, logging, pool, slf4j, testing]",0.83
+tbsalling/aismessages,zeromq/jzmq,"[junit, mocking, testing]",0.75
+NoCheatPlus/NoCheatPlus,perlundq/yajsync,"[junit, testing]",1.0
+mpatric/mp3agic,taksan/skype-java-api,"[junit, testing]",1.0
+AdoptOpenJDK/mjprof,kostaskougios/cloning,"[junit, reflection, testing]",0.75
+fordfrog/apgdiff,jboss-javassist/javassist,"[junit, matching, testing]",1.0
+apache/commons-dbutils,vdurmont/semver4j,"[junit, mock, mocking, testing]",0.8
+jasminb/jsonapi-converter,upyun/java-sdk,"[client, http, json, junit, testing]",0.71
+JetBrains/intellij-plugins,lbehnke/hierarchical-clustering-java,"[io, junit, testing]",1.0
+JodaOrg/joda-money,ktuukkan/marine-api,"[junit, testing]",1.0
+JunzhouLiu/BILIBILI-HELPER,brsanthu/google-analytics-java,"[apache, api, bridge, client, http, junit, logging, slf4j, testing]",0.82
+GwtMaterialDesign/gwt-material,gwtbootstrap3/gwtbootstrap3,"[framework, google, gwt, junit, testing, ui, web]",0.88
+romankh3/image-comparison,svendiedrichsen/jollyday,"[api, junit, mock, mocking, testing]",0.71
+Tencent/RapidView,taksan/skype-java-api,"[junit, testing]",1.0
+giltene/jHiccup,taksan/skype-java-api,"[junit, testing]",1.0
+Password4j/password4j,TheHolyWaffle/TeamSpeak-3-Java-API,"[api, junit, logging, slf4j, testing]",0.71
+dlsc-software-consulting-gmbh/FormsFX,mpatric/mp3agic,"[junit, testing]",1.0
+niaobulashi/ruoyi,yangzongzhuan/RuoYi-Vue,"[apache, api, collections, engine, framework, generator, github, io, json, jwt, model, native, persistence, platform, scheduling, security, spring, starter, structures, swagger, system, template, upload]",0.85
+jfree/jfreechart-fse,knowm/Sundial,"[api, javax, junit, servlet, specs, standard, testing]",0.78
+AdoptOpenJDK/jitwatch,conversant/disruptor,"[api, junit, logging, slf4j, testing]",1.0
+gradle/oreilly-gradle-book-examples,graylog-labs/graylog-plugin-slack,"[junit, logging, testing]",0.75
+spotify/futures-extra,verhas/License3j,"[api, junit, mock, mocking, testing]",0.71
+apache/commons-imaging,cucumber/cucumber-java-skeleton,"[io, junit, testing]",0.75
+HyDevelop/PicqBotX,perlundq/yajsync,"[junit, testing]",1.0
+SQLDroid/SQLDroid,square/otto,"[android, assertion, google, junit, platform, quality, testing]",0.78
+bastillion-io/Bastillion,bastillion-io/Bastillion-EC2,"[apache, barcode, base64, codec, commons, config, database, eclipse, embedded, encoding, google, jdbc, jetty, json, network, pool, server, sql, ssh, upload, webserver, websocket]",0.81
+apache/commons-imaging,lbehnke/hierarchical-clustering-java,"[io, junit, testing]",0.75
+apache/commons-dbutils,maxmind/geoip-api-java,"[junit, mock, mocking, testing]",0.8
+conversant/disruptor,whitesock/open-replicator,"[api, junit, logging, slf4j, testing]",1.0
+beckchr/juel,jfree/jfreesvg,"[api, junit, testing]",0.75
+JorelAli/CommandAPI,filoghost/HolographicDisplays,[api],1.0
+stleary/JSON-java,vdurmont/semver4j,"[junit, mock, mocking, testing]",0.8
+apavlo/h-store,maxmind/geoip-api-java,"[junit, mocking, testing]",0.75
+gturri/aXMLRPC,ipfs-shipyard/java-ipfs-http-client,"[github, junit, testing]",0.75
+TooTallNate/Java-WebSocket,laforge49/JActor,"[api, junit, logging, slf4j, testing]",0.71
+grundid/nfctools,jitlogic/zorka,"[api, junit, logging, slf4j, testing]",0.71
+jhalterman/concurrentunit,mmnaseri/cs-review,"[matching, testing, testng]",1.0
+romankh3/image-comparison,vdurmont/semver4j,"[junit, mock, mocking, testing]",0.8
+thrau/jarchivelib,usb4java/usb4java,"[apache, commons, junit, testing]",0.8
+JSQLParser/JSqlParser,apache/commons-csv,"[apache, commons, database, embedded, io, junit, mock, mocking, sql, testing]",0.77
+google/openrtb,google/openrtb-doubleclick,"[analysis, api, bridge, dependency-injection, google, io, javax, junit, logging, management, metrics, monitoring, performance, protocol, serialization, slf4j, specs, standard, testing]",1.0
+javaee/jax-rs-api,jfree/jfreechart-fse,"[api, javax, junit, specs, standard, testing]",0.75
+dlsc-software-consulting-gmbh/FormsFX,zeromq/jeromq,"[junit, testing]",1.0
+apache/commons-dbutils,awslabs/multi-model-server,"[junit, mock, mocking, testing]",0.8
+Polve/bitcoin-rpc-client,apache/commons-codec,"[apache, commons, junit, testing]",1.0
+abel533/ECharts,microsoft/vscode-java-debug,"[google, json, junit, testing]",1.0
+mybatis/jpetstore-6,mybatis/spring,"[apache, api, assertion, database, dependency-injection, embedded, engine, framework, hsql, jdbc, junit, logging, mapping, mock, mocking, persistence, quality, relational, servlet, slf4j, spring, sql, testing, web]",0.71
+ArcBees/Jukito,spring-projects/spring-guice,"[dependency-injection, extension, google, junit, mock, mocking, testing]",1.0
+huaban/jieba-analysis,thrau/jarchivelib,"[apache, commons, junit, testing]",0.8
+andytill/erlyberly,mpatric/mp3agic,"[junit, testing]",1.0
+mpatric/mp3agic,perlundq/yajsync,"[junit, testing]",1.0
+LinShunKang/MyPerf4J,openjdk/jol,"[benchmark, bytecode, generator, junit, performance, testing]",0.75
+ObjectLayout/ObjectLayout,arturmkrtchyan/iban4j,"[benchmark, junit, performance, testing]",0.8
+kiegroup/droolsjbpm-knowledge,mkotsur/restito,"[bridge, junit, logging, slf4j, testing]",0.71
+SpoutDev/Vanilla,pytorch/serve,"[google, json, junit, mock, mocking, testing]",0.75
+qmx/jitescript,square/pollexor,"[assertion, junit, quality, testing, validation]",0.83
+eclipse-ee4j/jersey,javaee/jersey,"[annotations, aop, apache, api, aspect, authentication, base64, beans, benchmark, binding, bridge, build, build-system, bundle, bytecode, client, codec, codehaus, compatibility, connection, connector, container, dependency-injection, distributed, doc, eclipse, ejb, encoding, example, filtering, framework, generator, github, google, hibernate, html, http, ide, io, javaee, javax, jaxrs, jboss, jetty, json, jsp, junit, layout, library, logging, management, mapping, matching, maven, metrics, mock, mocking, model, module, monitoring, mustache, mvc, netbeans, netty, network, oauth, osgi, parser, performance, persistence, plugin, pooling, provider, proxy, reactive, reflection, resource, rest, security, serialization, server, service, servlet, signing, slf4j, socket, specs, spring, standard, streaming, swing, template, testing, testng, tools, tracing, transaction, transport, tree, ui, url, validation, vfs, web, webapp, webserver, webservice, websocket, xml]",0.92
+luaj/luaj,mpatric/mp3agic,"[junit, testing]",1.0
+luaj/luaj,yago-naga/yago3,"[junit, testing]",1.0
+janino-compiler/janino,wildfly/jandex,"[ant, apache, build, junit, testing, tools]",0.75
+arturmkrtchyan/iban4j,robinst/autolink-java,"[benchmark, junit, performance, testing]",1.0
+google/google-java-format,yegor256/cactoos,"[analysis, annotations, defect, google, junit, metadata, testing]",0.88
+openlookeng/hetu-core,prestodb/presto,"[amazon, analysis, analyzer, annotations, apache, api, avro, aws, base64, benchmark, bootstrap, broker, bytecode, cache, cassandra, cli, client, cloud, codec, collections, column, command-line, commons, compiler, compression, computing, concurrent, config, connection, connector, console, coordination, csv, database, decoder, directory, discovery, distributed, docker, driver, elastic, elasticsearch, embedded, encoding, event, expression, facebook, framework, geometry, geospatial, github, google, hadoop, http, index, interface, io, javax, jaxrs, jdbc, jmx, json, jvm, jwt, kafka, language, ldap, library, logging, lucene, manager, matching, math, maven, measurement, memory, message, mock, mocking, mongodb, mysql, netty, network, nosql, parquet, parser, plugin, postgresql, protocol, redis, reflection, regexp, repository, resource, rest, runner, runtime, s3, scala, sdk, search, security, serialization, server, socket, spatial, specs, sql, standard, stats, streaming, structures, tabular, terminal, testing, testng, thrift, token, toolkit, tools, tracing, transport, tree, units, url, zookeeper]",0.7
+tzaeschke/ode4j,whitesock/open-replicator,"[api, junit, logging, slf4j, testing]",1.0
+boncey/Flickr4Java,tzaeschke/ode4j,"[api, junit, logging, slf4j, testing]",0.83
+JodaOrg/joda-money,dlsc-software-consulting-gmbh/FormsFX,"[junit, testing]",1.0
+sofastack/sofa-common-tools,zeroturnaround/zt-zip,"[api, bridge, junit, logging, slf4j, testing]",0.75
+conversant/disruptor,plutext/docx4j-ImportXHTML,"[api, junit, logging, slf4j, testing]",0.71
+eclipsesource/J2V8,gardncl/elements-of-programming-interviews,"[junit, mock, mocking, testing]",0.8
+kokorin/Jaffree,roundrop/facebook4j,"[api, bridge, junit, logging, slf4j, testing]",0.75
+jkuhnert/ognl,szegedi/dynalink,"[bytecode, junit, testing]",0.75
+awslabs/multi-model-server,gardncl/elements-of-programming-interviews,"[junit, mock, mocking, testing]",0.8
+googleworkspace/java-samples,youtube/api-samples,"[api, authentication, client, collections, google, http, jetty, oauth, server, service, structures, webserver]",0.75
+CloudburstMC/Protocol,hsiafan/apk-parser,"[analysis, encryption, google, junit, testing]",0.71
+NightWhistler/HtmlSpanner,ahorn/android-rss,"[android, google, junit, platform, testing]",0.71
+NLPchina/nlp-lang,hneemann/Digital,"[apache, api, junit, logging, slf4j, testing]",0.75
+kokorin/Jaffree,sofastack/sofa-common-tools,"[apache, api, bridge, io, junit, logging, slf4j, testing]",1.0
+gturri/aXMLRPC,javadev/underscore-java,"[github, junit, testing]",1.0
+AdoptOpenJDK/jitwatch,zeroturnaround/zt-zip,"[api, junit, logging, slf4j, testing]",0.83
+NLPchina/ansj_seg,magese/ik-analyzer-solr,"[analyzer, apache, full-text, index, indexing, junit, lucene, testing]",0.89
+maxmind/geoip-api-java,vdurmont/semver4j,"[junit, mock, mocking, testing]",1.0
+fluent/fluent-logger-java,jitlogic/zorka,"[api, junit, logging, slf4j, testing]",0.71
+apache/commons-codec,huaban/jieba-analysis,"[apache, commons, junit, testing]",1.0
+Progether/JAdventure,dgarijo/Widoco,"[api, json, junit, logging, matching, slf4j, testing]",0.78
+grundid/nfctools,hoijui/JavaOSC,"[api, bridge, junit, logging, slf4j, testing]",1.0
+cucumber-attic/gherkin2,maxmind/geoip-api-java,"[junit, mock, mocking, testing]",1.0
+apache/commons-dbutils,cucumber-attic/gherkin2,"[junit, mock, mocking, testing]",0.8
+elunez/eladmin,perye/dokit,"[annotations, apache, api, commons, config, dependency-injection, excel, github, io, javax, jdbc, json, logging, mail, model, network, parser, pooling, processor, sdk, specs, spreadsheet, spring, sql, ssh, standard, starter, swagger, ui, xml]",1.0
+NoCheatPlus/NoCheatPlus,mpatric/mp3agic,"[junit, testing]",1.0
+lbehnke/hierarchical-clustering-java,vanilladb/vanillacore,"[io, junit, testing]",1.0
+alibaba/cooma,kiegroup/droolsjbpm-knowledge,"[bridge, junit, logging, slf4j, testing]",0.71
+CloudRail/cloudrail-si-java-sdk,beckchr/juel,"[api, junit, testing]",0.75
+ThreeTen/threeten-extra,mikera/vectorz,"[api, engine, google, junit, testing]",0.71
+TooTallNate/Java-WebSocket,tzaeschke/ode4j,"[api, junit, logging, slf4j, testing]",0.83
+maxmind/geoip-api-java,zeromq/jzmq,"[junit, mocking, testing]",0.75
+indvd00m/java-ascii-render,spotify/futures-extra,"[api, junit, mock, mocking, testing]",0.71
+OpenHFT/Zero-Allocation-Hashing,yegor256/cactoos,"[analysis, annotations, defect, google, junit, metadata, testing]",0.78
+ThreeTen/threeten-extra,jfree/jfreesvg,"[api, engine, junit, testing]",0.8
+kframework/k,kframework/k-legacy,"[analysis, apache, api, base64, cli, codec, collections, command-line, commons, compiler, console, dependency-injection, encoding, encryption, extension, google, graph, io, json, junit, jvm, language, library, mock, mocking, scala, structures, terminal, testing]",0.94
+jboss-javassist/javassist,petitparser/java-petitparser,"[junit, matching, testing]",0.75
+thomasmueller/minperf,yellowstonegames/SquidLib,"[benchmark, generator, junit, performance, testing]",0.71
+broadgsa/gatk,broadgsa/gatk-protected,"[apache, api, aws, benchmark, bridge, client, collections, commons, compiler, database, dependency-injection, driver, engine, expression, github, google, http, intel, io, javax, json, jvm, language, library, logging, mail, match, math, matrix, mongodb, native, nosql, performance, reflection, s3, scala, slf4j, specs, standard, structures, template, testing, testng, tools, vector, xml]",1.0
+OWASP/json-sanitizer,hsiafan/apk-parser,"[analysis, google, junit, testing]",0.8
+libraryaddict/LibsDisguises,netplex/json-smart-v2,"[api, bytecode, json, junit, testing]",0.71
+apavlo/h-store,zeromq/jzmq,"[junit, mocking, testing]",1.0
+oracle/pgql-lang,usb4java/usb4java,"[apache, commons, junit, testing]",1.0
+JodaOrg/joda-money,perlundq/yajsync,"[junit, testing]",1.0
+roundrop/facebook4j,tzaeschke/ode4j,"[api, junit, logging, slf4j, testing]",0.83
+Esri/geometry-api-java,julman99/gson-fire,"[json, junit, testing]",0.75
+JodaOrg/joda-money,Tencent/RapidView,"[junit, testing]",1.0
+julman99/gson-fire,microsoft/vscode-java-debug,"[google, json, junit, testing]",1.0
+julman99/gson-fire,taycaldwell/riot-api-java,"[google, json, junit, testing]",1.0
+roundrop/facebook4j,vasia/gelly-streaming,"[bridge, junit, logging, slf4j, testing]",0.71
+NoCheatPlus/NoCheatPlus,Tencent/RapidView,"[junit, testing]",1.0
+perlundq/yajsync,zeromq/jeromq,"[junit, testing]",1.0
+mcxiaoke/android-volley,sockeqwe/fragmentargs,"[android, google, junit, mock, mocking, platform, testing]",0.78
+TheHolyWaffle/TeamSpeak-3-Java-API,boncey/Flickr4Java,"[api, junit, logging, slf4j, testing]",0.83
+AdoptOpenJDK/jitwatch,Password4j/password4j,"[api, junit, logging, slf4j, testing]",0.71
+spoofzu/DeepViolet,stleary/JSON-java,"[json, junit, mock, mocking, testing]",0.71
+JavaMoney/jsr354-api,chewiebug/GCViewer,"[library, matching, mock, mocking, testing]",0.71
+jitlogic/zorka,laforge49/JActor,"[api, junit, logging, slf4j, testing]",0.71
+depsypher/pngtastic,janino-compiler/janino,"[ant, apache, build, junit, testing, tools]",1.0
+sbtourist/Journal.IO,zeroturnaround/zt-zip,"[api, bridge, junit, logging, slf4j, testing]",0.75
+JorelAli/CommandAPI,lishid/Orebfuscator,[api],1.0
+beckchr/juel,jfree/jfreechart,"[api, junit, testing]",0.75
+Bukkit/Bukkit,mwanji/toml4j,"[google, json, junit, library, matching, testing]",0.86
+jsonzou/jmockdata,julman99/gson-fire,"[json, junit, testing]",0.75
+NLPchina/nlp-lang,laforge49/JActor,"[api, junit, logging, slf4j, testing]",0.71
+roundrop/facebook4j,sbtourist/Journal.IO,"[api, bridge, junit, logging, slf4j, testing]",0.75
+JunzhouLiu/BILIBILI-HELPER,splunk/splunk-library-javalogging,"[apache, api, client, google, http, json, junit, logging, slf4j, testing]",0.83
+taksan/skype-java-api,zeromq/jeromq,"[junit, testing]",1.0
+Thomas-S-B/visualee,aleksandr-m/gitflow-maven-plugin,"[apache, api, build, build-system, junit, maven, model, plugin, testing, tools]",0.71
+fordfrog/apgdiff,petitparser/java-petitparser,"[junit, matching, testing]",0.75
+JodaOrg/joda-beans,MGunlogson/CuckooFilter4J,"[google, junit, testing]",1.0
+jeevatkm/digitalocean-api-java,splunk/splunk-library-javalogging,"[apache, api, client, commons, google, http, json, junit, logging, slf4j, testing]",1.0
+guchengwuyue/yshopmall,perye/dokit,"[annotations, apache, api, commons, config, dependency-injection, excel, github, io, javax, json, mail, model, network, parser, pooling, processor, sdk, specs, spreadsheet, spring, ssh, standard, starter, swagger, ui, xml]",0.71
+MGunlogson/CuckooFilter4J,julman99/gson-fire,"[google, junit, testing]",0.75
+optimatika/ojAlgo,thomasmueller/minperf,"[benchmark, generator, junit, performance, testing]",0.71
+Hakky54/log-captor,restfb/restfb,"[api, assertion, engine, junit, logging, mock, quality, slf4j, testing]",0.82
+JakeWharton/DiskLruCache,square/pollexor,"[assertion, junit, quality, testing, validation]",0.83
+NLPchina/nlp-lang,whitesock/open-replicator,"[api, junit, logging, slf4j, testing]",0.83
+Esri/geometry-api-java,MarkShen1992/Mashibing_High_Concurrency,"[json, junit, testing]",0.75
+AdoptOpenJDK/mjprof,alibaba/simpleel,"[junit, testing, tools]",0.75
+grundid/nfctools,sbtourist/Journal.IO,"[api, bridge, junit, logging, slf4j, testing]",0.75
+Progether/JAdventure,haosdent/jcgroup,"[api, google, json, junit, logging, slf4j, testing]",0.78
+McFoggy/cssfx,usethesource/capsule,"[engine, junit, testing]",0.75
+jfree/jfreechart,redfx-quantum/strange,"[api, engine, junit, testing]",1.0
+gturri/aXMLRPC,jnr/jnr-posix,"[github, junit, testing]",0.75
+MenoData/Time4J,spring-guides/gs-maven,"[junit, testing, time]",0.75
+apache/commons-beanutils,gradle/oreilly-gradle-book-examples,"[junit, logging, testing]",0.75
+Tencent/RapidView,zeromq/jeromq,"[junit, testing]",1.0
+alibaba/cooma,conversant/disruptor,"[api, junit, logging, slf4j, testing]",0.71
+fasseg/exp4j,gradle/oreilly-gradle-book-examples,"[junit, logging, testing]",1.0
+fabian7593/MagicalCamera,geometer/FBReaderJ,"[android, google, platform, support]",0.8
+guxingke/mini-jvm,tzaeschke/ode4j,"[junit, logging, slf4j, testing]",0.8
+TooTallNate/Java-WebSocket,zeroturnaround/zt-zip,"[api, junit, logging, slf4j, testing]",0.71
+maxmind/geoip-api-java,stleary/JSON-java,"[junit, mock, mocking, testing]",0.8
+prestodb/presto,trinodb/trino,"[accumulo, amazon, analysis, analytics, analyzer, annotations, apache, api, authentication, avro, aws, base64, benchmark, binding, bootstrap, bytecode, cache, cassandra, cli, client, cloud, codec, collections, column, command-line, commons, compiler, compression, computing, concurrent, config, connection, connector, coordination, cryptography, csv, database, decoder, directory, discovery, distributed, docker, driver, elastic, elasticsearch, embedded, encoding, event, facebook, framework, geometry, geospatial, github, google, hadoop, http, index, interface, io, javax, jaxrs, jdbc, jmx, json, jwt, kafka, ldap, library, logging, lucene, manager, matching, math, maven, measurement, memory, message, mock, mocking, mongodb, mysql, netty, network, nosql, oauth, parquet, parser, plugin, postgresql, processing, protocol, redis, regexp, repository, resource, rest, runner, runtime, s3, sdk, search, security, serialization, server, service, socket, spatial, specs, sql, standard, stats, stream, streaming, structures, tabular, testing, thrift, token, toolkit, tools, tracing, transport, units, url, xml, zookeeper]",0.74
+abel533/ECharts,joshjdevl/libsodium-jni,"[google, junit, testing]",0.75
+JodaOrg/joda-money,luaj/luaj,"[junit, testing]",1.0
+jitsi/jicofo,jitsi/jitsi-videobridge,"[annotations, apache, api, client, config, console, container, dependency-injection, eclipse, engine, framework, github, http, io, jetty, json, junit, kotlin, language, logging, mock, mocking, provider, runner, runtime, server, servlet, slf4j, testing, webserver, webservice]",0.72
+killme2008/aviatorscript,yahoo/Oak,"[benchmark, generator, junit, mock, mocking, performance, testing]",0.78
+aikar/commands,spotify/futures-extra,"[api, google, junit, mock, mocking, testing]",0.75
+Thomas-S-B/visualee,jeluard/semantic-versioning,"[apache, api, build, build-system, junit, maven, model, plugin, testing, tools]",0.71
+restfb/restfb,zalando/faux-pas,"[api, assertion, engine, junit, logging, mock, quality, slf4j, testing]",0.75
+vasia/gelly-streaming,zeroturnaround/zt-zip,"[bridge, junit, logging, slf4j, testing]",0.71
+JetBrains/intellij-plugins,apache/commons-imaging,"[io, junit, testing]",0.75
+luaj/luaj,perlundq/yajsync,"[junit, testing]",1.0
+grundid/nfctools,whitesock/open-replicator,"[api, junit, logging, slf4j, testing]",0.83
+abel533/ECharts,jsonzou/jmockdata,"[json, junit, testing]",0.75
+abstractj/kalium,gary-rowe/hid4java,"[junit, native, testing]",0.75
+guxingke/mini-jvm,whitesock/open-replicator,"[junit, logging, slf4j, testing]",0.8
+lukaszlenart/launch4j-maven-plugin,tada/pljava,"[annotations, apache, api, build, build-system, junit, maven, plugin, testing, tools]",0.71
+HyDevelop/PicqBotX,taksan/skype-java-api,"[junit, testing]",1.0
+elBukkit/MagicPlugin,spotify/trickle,"[analysis, google, mock, mocking, testing]",0.71
+AdoptOpenJDK/jitwatch,kaitoy/pcap4j,"[api, junit, logging, slf4j, testing]",0.71
+AdoptOpenJDK/jitwatch,ctongfei/progressbar,"[api, junit, logging, slf4j, testing]",0.71
+huaban/jieba-analysis,ozlerhakan/poiji,"[apache, junit, testing]",0.75
+apavlo/h-store,stateless4j/stateless4j,"[junit, mocking, testing]",0.75
+antlr4ide/antlr4ide,vdmeer/asciitable,"[compiler, junit, parser, testing]",0.8
+TheHolyWaffle/TeamSpeak-3-Java-API,TooTallNate/Java-WebSocket,"[api, junit, logging, slf4j, testing]",0.83
+kokorin/Jaffree,zeroturnaround/zt-exec,"[apache, api, io, junit, logging, slf4j, testing]",0.78
+brsanthu/google-analytics-java,leonchen83/redis-replicator,"[apache, api, bridge, client, junit, logging, slf4j, testing]",0.73
+eBay/cors-filter,jfree/jfreechart-fse,"[api, javax, junit, servlet, specs, standard, testing]",1.0
+HyDevelop/PicqBotX,Tencent/RapidView,"[junit, testing]",1.0
+Tencent/RapidView,perlundq/yajsync,"[junit, testing]",1.0
+grundid/nfctools,vasia/gelly-streaming,"[bridge, junit, logging, slf4j, testing]",0.71
+DarLiner/vjtools,vipshop/vjtools,"[apache, api, assertion, bridge, cli, commons, frontend, google, json, junit, logging, mock, mocking, parser, plugin, quality, slf4j, sonar, testing, tools]",0.83
+fluent/fluent-logger-java,tzaeschke/ode4j,"[api, junit, logging, slf4j, testing]",0.83
+jcbvm/i18n-editor,jeevatkm/digitalocean-api-java,"[apache, commons, google, json, junit, logging, slf4j, testing]",0.73
+Plugily-Projects/BuildBattle,Plugily-Projects/MurderMystery,"[analysis, annotations, github, google, io]",1.0
+JodaOrg/joda-time,andytill/erlyberly,"[junit, testing]",1.0
+FoxBPM/FoxBPM,fixteam/fixflow,"[aop, apache, api, aspect, beans, binding, bridge, codec, codehaus, commons, connector, css, database, dependency-injection, dom, driver, eclipse, framework, google, graphics, groovy, javax, jdbc, json, jsp, junit, jvm, language, logging, mail, mapping, mysql, parser, regexp, scheduling, servlet, slf4j, specs, spring, sql, standard, styles, svg, taglib, testing, upload, web, xml]",0.74
+cternes/openkeepass,mvel/mvel,"[junit, testing, xml]",1.0
+mangstadt/biweekly,stleary/JSON-java,"[json, junit, mock, mocking, testing]",0.71
+TopQuadrant/shacl,joestelmach/natty,"[api, bridge, compiler, junit, logging, parser, runtime, slf4j, testing]",0.82
+apache/commons-io,danieldk/dictomaton,"[apache, benchmark, commons, google, junit, performance, testing]",0.78
+NLPchina/nlp-lang,hoijui/JavaOSC,"[api, junit, logging, slf4j, testing]",0.71
+andytill/erlyberly,yago-naga/yago3,"[junit, testing]",1.0
+NLPchina/nlp-lang,grundid/nfctools,"[api, junit, logging, slf4j, testing]",0.71
+javadelight/delight-nashorn-sandbox,zeroturnaround/zt-zip,"[api, bridge, junit, logging, slf4j, testing]",0.75
+stateless4j/stateless4j,zeromq/jzmq,"[junit, mocking, testing]",0.75
+McFoggy/cssfx,redfx-quantum/strange,"[engine, junit, testing]",0.75
+giltene/jHiccup,luaj/luaj,"[junit, testing]",1.0
+joshjdevl/libsodium-jni,microsoft/vscode-java-debug,"[google, junit, testing]",0.75
+ipfs-shipyard/java-ipfs-http-client,javadev/underscore-java,"[github, junit, testing]",0.75
+upyun/java-sdk,windy1/google-places-api-java,"[client, http, json, junit, testing]",0.71
+google/compile-testing,google/google-java-format,"[analysis, annotations, defect, google, junit, metadata, testing]",0.78
+hoijui/JavaOSC,javadelight/delight-nashorn-sandbox,"[api, bridge, junit, logging, slf4j, testing]",0.75
+Esri/geometry-api-java,taycaldwell/riot-api-java,"[json, junit, testing]",0.75
+jitlogic/zorka,tzaeschke/ode4j,"[api, junit, logging, slf4j, testing]",0.83
+openmessaging/openmessaging-java,pivovarit/throwing-function,"[api, assertion, junit, logging, quality, slf4j, testing]",0.78
+TheHolyWaffle/TeamSpeak-3-Java-API,whitesock/open-replicator,"[api, junit, logging, slf4j, testing]",1.0
+f2prateek/progressbutton,square/otto,"[android, assertion, google, junit, platform, quality, testing, validation]",0.73
+hoijui/JavaOSC,kiegroup/droolsjbpm-knowledge,"[bridge, junit, logging, slf4j, testing]",0.83
+conversant/disruptor,zeroturnaround/zt-zip,"[api, junit, logging, slf4j, testing]",0.83
+beckchr/juel,redfx-quantum/strange,"[api, junit, testing]",0.75
+fluent/fluent-logger-java,laforge49/JActor,"[api, junit, logging, slf4j, testing]",0.71
+fordfrog/apgdiff,ipfs-shipyard/java-ipfs-http-client,"[junit, matching, testing]",0.75
+apache/hadoop,apache/ozone,"[ajax, amazon, analysis, annotations, apache, api, assertion, authentication, aws, azure, base64, beans, binding, bridge, bytecode, cache, cbor, cli, client, cloud, cluster, codec, codehaus, collections, command-line, commons, compression, config, coverage, csv, database, dependency-injection, distributed, dns, eclipse, embedded, encoding, encryption, engine, example, extension, file-system, framework, ftp, github, google, grpc, hadoop, hbase, hsql, http, integration, io, javax, jaxrs, jdbc, jetty, json, jsp, junit, launcher, logging, management, managment, mapreduce, matching, math, metrics, mock, mocking, module, monitoring, netty, network, openstack, parallel, parser, performance, platform, protocol, provider, proxy, quality, reflection, registry, rest, routing, rpc, ruby, runtime, sdk, serialization, server, service, servlet, slf4j, socket, specs, sql, ssh, ssl, standard, storage, streaming, structures, swagger, tabular, testing, text, tools, web, webapp, webserver, webservice, xml, yaml, yarn]",0.72
+databricks/learning-spark,holdenk/learning-spark-examples,"[ai, apache, bigdata, binding, cassandra, client, commons, computing, connector, csv, database, distributed, eclipse, elastic, elasticsearch, hadoop, http, jetty, json, kafka, machine-learning, processing, query, search, server, spark, sql, stream, streaming, tabular, webserver]",1.0
+sealedtx/java-youtube-downloader,stleary/JSON-java,"[json, junit, mock, mocking, testing]",0.83
+jsonzou/jmockdata,microsoft/vscode-java-debug,"[json, junit, testing]",0.75
+FastFilter/fastfilter_java,arteam/100-Java-Concurrency-questions,"[benchmark, generator, junit, performance, testing]",0.71
+IanDarwin/Android-Cookbook-Examples,noveogroup/android-logger,"[android, api, google, junit, logging, platform, slf4j, testing]",0.73
+TooTallNate/Java-WebSocket,haosdent/jcgroup,"[api, json, junit, logging, slf4j, testing]",0.75
+OWASP/json-sanitizer,joshjdevl/libsodium-jni,"[google, junit, testing]",0.75
+mdeverdelhan/ta4j-origins,ta4j/ta4j,"[apache, api, charts, commons, csv, graphics, junit, logging, math, slf4j, tabular, testing, visualization]",0.87
+peholmst/vaadin4spring,verhas/License3j,"[engine, junit, mock, mocking, testing]",0.71
+dlsc-software-consulting-gmbh/FormsFX,giltene/jHiccup,"[junit, testing]",1.0
+gardncl/elements-of-programming-interviews,vdurmont/semver4j,"[junit, mock, mocking, testing]",0.8
+trivago/cluecumber-report-plugin,trivago/cucable-plugin,"[annotations, apache, api, build, build-system, codehaus, engine, io, junit, maven, mock, mocking, model, plugin, testing, tools]",0.76
+irmen/Pyrolite,ktuukkan/marine-api,"[junit, testing]",1.0
+javadev/underscore-java,petitparser/java-petitparser,"[github, junit, testing]",0.75
+andytill/erlyberly,taksan/skype-java-api,"[junit, testing]",1.0
+Tencent/RapidView,yago-naga/yago3,"[junit, testing]",1.0
+NoCheatPlus/NoCheatPlus,ktuukkan/marine-api,"[junit, testing]",1.0
+Thomas-S-B/visualee,coveooss/fmt-maven-plugin,"[apache, api, build, build-system, junit, maven, model, plugin, testing, tools]",0.71
+zuihou/lamp-boot,zuihou/lamp-cloud,"[io, spring, starter]",1.0
+TheHolyWaffle/TeamSpeak-3-Java-API,timrdf/csv2rdf4lod-automation,"[api, junit, logging, slf4j, testing]",0.71
+apache/commons-dbutils,garbagemule/MobArena,"[junit, matching, mock, mocking, testing]",0.83
+javadelight/delight-nashorn-sandbox,roundrop/facebook4j,"[api, bridge, junit, logging, slf4j, testing]",0.75
+gary-rowe/hid4java,peter-lawrey/Java-Thread-Affinity,"[junit, native, testing]",0.75
+giltene/jHiccup,irmen/Pyrolite,"[junit, testing]",1.0
+antlr/antlr4,tunnelvisionlabs/antlr4cs,"[annotations, apache, api, build, build-system, codehaus, compatibility, compiler, io, junit, maven, model, parser, plugin, runtime, testing, tools]",0.74
+petitparser/java-petitparser,shekhargulati/99-problems,"[junit, matching, testing]",0.75
+j256/simplemagic,tzaeschke/ode4j,"[api, junit, logging, slf4j, testing]",0.71
+TNG/JGiven,aleksandr-m/gitflow-maven-plugin,"[annotations, apache, api, build, build-system, junit, maven, model, plugin, testing, tools]",0.85
+cucumber/cucumber-java-skeleton,lbehnke/hierarchical-clustering-java,"[io, junit, testing]",1.0
+aionnetwork/aion,joshjdevl/libsodium-jni,"[google, junit, testing]",1.0
+openjdk/jdk,openjdk/loom,"[api, file-system, ide, interface, junit, layout, loader, module, netbeans, swing, testing, ui, visual]",0.81
+mikera/vectorz,optimatika/ojAlgo,"[api, benchmark, engine, junit, performance, testing]",0.75
+janino-compiler/janino,threerings/getdown,"[ant, apache, build, junit, testing, tools]",0.75
+AdoptOpenJDK/jitwatch,j256/simplemagic,"[api, junit, logging, slf4j, testing]",0.71
+ThreeTen/threeten-extra,redfx-quantum/strange,"[api, engine, junit, testing]",0.8
+apache/hadoop,hopshadoop/hops,"[ajax, amazon, analysis, annotations, ant, apache, api, assertion, authentication, avro, aws, azure, base64, beans, binding, bridge, build, build-system, bundle, bytecode, cache, cbor, cli, client, codec, codehaus, collections, command-line, commons, compression, config, coordination, csv, data, database, dependency-injection, distributed, dns, eclipse, embedded, encoding, encryption, example, extension, file-system, framework, ftp, google, grpc, hadoop, hsql, http, io, javax, jaxrs, jdbc, jetty, json, jsp, junit, leveldb, logging, management, mapping, mapreduce, math, maven, memory, metrics, mock, mocking, model, module, monitoring, netty, network, off-heap, openstack, parallel, parser, performance, plugin, protocol, provider, proxy, quality, reflection, registry, rest, rpc, ruby, sdk, serialization, server, servlet, slf4j, socket, specs, sql, ssh, ssl, standard, storage, streaming, structures, swagger, tabular, testing, text, tools, web, webapp, webserver, webservice, xml, yaml, yarn, zookeeper]",0.78
+huaban/jieba-analysis,usb4java/usb4java,"[apache, commons, junit, testing]",1.0
+hoijui/JavaOSC,roundrop/facebook4j,"[api, bridge, junit, logging, slf4j, testing]",1.0
+NoCheatPlus/NoCheatPlus,yago-naga/yago3,"[junit, testing]",1.0
+JodaOrg/joda-money,yago-naga/yago3,"[junit, testing]",1.0
+jboss-javassist/javassist,mscharhag/oleaster,"[junit, matching, testing]",0.75
+dddplus/dddplus,funkygao/cp-ddd-framework,"[aop, apache, api, aspect, benchmark, bridge, dependency-injection, github, google, io, javax, junit, logging, performance, plugin, runtime, slf4j, specs, spring, standard, testing, validation]",1.0
+awslabs/multi-model-server,stleary/JSON-java,"[junit, mock, mocking, testing]",0.8
+AdoptOpenJDK/openjdk-jdk,openjdk/jdk,"[api, file-system, ide, interface, junit, layout, loader, module, netbeans, swing, testing, ui, visual]",1.0
+andytill/erlyberly,irmen/Pyrolite,"[junit, testing]",1.0
+jsonzou/jmockdata,taycaldwell/riot-api-java,"[json, junit, testing]",0.75
+romankh3/image-comparison,tbsalling/aismessages,"[junit, mock, mocking, testing]",0.8
+HyDevelop/PicqBotX,JodaOrg/joda-money,"[junit, testing]",1.0
+boncey/Flickr4Java,grundid/nfctools,"[api, junit, logging, slf4j, testing]",0.71
+mewna/catnip,pircbotx/pircbotx,"[analysis, apache, api, base64, codec, commons, encoding, google, logging, mock, mocking, slf4j, testing]",0.72
+davidmoten/rxjava-extras,davidmoten/rxjava2-extras,"[benchmark, bridge, github, google, io, junit, logging, mock, mocking, performance, reactive, serialization, slf4j, testing]",0.93
+irmen/Pyrolite,perlundq/yajsync,"[junit, testing]",1.0
+JodaOrg/joda-time,mpatric/mp3agic,"[junit, testing]",1.0
+taksan/skype-java-api,yago-naga/yago3,"[junit, testing]",1.0
+TNG/JGiven,Thomas-S-B/visualee,"[apache, api, build, build-system, junit, maven, model, plugin, testing, tools]",0.83
+amaembo/streamex,yellowstonegames/SquidLib,"[benchmark, generator, junit, performance, testing]",0.71
+TheHolyWaffle/TeamSpeak-3-Java-API,roundrop/facebook4j,"[api, junit, logging, slf4j, testing]",0.83
+eclipse-ee4j/jaxb-ri,javaee/jaxb-v2,"[ant, apache, api, binding, build, compiler, google, java, junit, mocking, osgi, parser, runtime, streaming, testing, tools, xml]",0.81
+thomasmueller/minperf,yahoo/Oak,"[benchmark, generator, junit, performance, testing]",0.71
+jitlogic/zorka,whitesock/open-replicator,"[api, junit, logging, slf4j, testing]",0.83
+conversant/disruptor,ctongfei/progressbar,"[api, junit, logging, slf4j, testing]",0.71
+fluent/fluent-logger-java,grundid/nfctools,"[api, junit, logging, slf4j, testing]",0.71
+CamelCookbook/camel-cookbook-examples,vaquarkhan/vaquarkhan,"[aop, apache, api, aspect, base64, beans, binding, bridge, camel, client, codec, config, cryptography, database, dependency-injection, embedded, encoding, framework, google, http, integration, io, jdbc, jetty, jms, jmx, junit, logging, management, message, proxy, queue, runtime, scripting, security, server, slf4j, specs, spring, sql, support, testing, transaction, transport, web, webserver, xml]",0.75
+Tencent/RapidView,giltene/jHiccup,"[junit, testing]",1.0
+ObjectLayout/ObjectLayout,arteam/100-Java-Concurrency-questions,"[benchmark, generator, junit, performance, testing]",1.0
+Hidendra/LWC,beckchr/juel,"[api, junit, testing]",0.75
+PanicInitiative/PanicButton,pytorch/serve,"[google, json, junit, mock, mocking, testing]",0.75
+JRakNet/JRakNet,ViaVersion/ViaRewind,"[apache, api, io, logging, netty, network, socket]",0.88
+apache/commons-dbutils,chewiebug/GCViewer,"[junit, matching, mock, mocking, testing]",0.83
+vdurmont/semver4j,zeromq/jzmq,"[junit, mocking, testing]",0.75
+guxingke/mini-jvm,kiegroup/droolsjbpm-knowledge,"[junit, logging, slf4j, testing]",0.8
+JodaOrg/joda-beans,taycaldwell/riot-api-java,"[google, junit, testing]",0.75
+harrywfl/JavaGuide,j256/two-factor-auth,"[base64, codec, encoding, junit, testing]",0.83
+TooTallNate/Java-WebSocket,hoijui/JavaOSC,"[api, junit, logging, slf4j, testing]",0.71
+irmen/Pyrolite,mpatric/mp3agic,"[junit, testing]",1.0
+apache/commons-logging,knowm/Sundial,"[api, javax, junit, logging, servlet, specs, standard, testing]",0.73
+Whiley/WhileyCompiler,depsypher/pngtastic,"[ant, build, junit, testing, tools]",0.83
+apache/commons-dbutils,tbsalling/aismessages,"[junit, mock, mocking, testing]",0.8
+apache/commons-dbutils,palatable/lambda,"[matching, mock, mocking, testing]",0.8
+MGunlogson/CuckooFilter4J,aionnetwork/aion,"[google, junit, testing]",1.0
+TheHolyWaffle/TeamSpeak-3-Java-API,fluent/fluent-logger-java,"[api, junit, logging, slf4j, testing]",0.83
+ktuukkan/marine-api,luaj/luaj,"[junit, testing]",1.0
+square/burst,square/protoparser,"[assertion, google, junit, quality, testing]",1.0
+JodaOrg/joda-beans,OWASP/json-sanitizer,"[google, junit, testing]",0.75
+thomasmueller/minperf,uber/h3-java,"[benchmark, generator, junit, performance, testing]",0.83
+apache/commons-codec,ls1intum/Artemis,"[apache, commons, testing]",0.75
+JodaOrg/joda-money,NoCheatPlus/NoCheatPlus,"[junit, testing]",1.0
+roundrop/facebook4j,whitesock/open-replicator,"[api, junit, logging, slf4j, testing]",0.83
+arteam/100-Java-Concurrency-questions,yahoo/Oak,"[benchmark, generator, junit, performance, testing]",0.71
+kaitoy/pcap4j,tzaeschke/ode4j,"[api, junit, logging, slf4j, testing]",0.71
+dlsc-software-consulting-gmbh/FormsFX,perlundq/yajsync,"[junit, testing]",1.0
+AdoptOpenJDK/jitwatch,alibaba/cooma,"[api, junit, logging, slf4j, testing]",0.71
+boncey/Flickr4Java,conversant/disruptor,"[api, junit, logging, slf4j, testing]",0.83
+NLPchina/nlp-lang,TheHolyWaffle/TeamSpeak-3-Java-API,"[api, junit, logging, slf4j, testing]",0.83
+jitlogic/zorka,zeroturnaround/zt-zip,"[api, junit, logging, slf4j, testing]",0.71
+FastFilter/fastfilter_java,amaembo/streamex,"[benchmark, generator, junit, performance, testing]",0.71
+apache/commons-codec,usb4java/usb4java,"[apache, commons, junit, testing]",1.0
+AdoptOpenJDK/jitwatch,jitlogic/zorka,"[api, junit, logging, slf4j, testing]",0.83
+aionnetwork/aion,greenrobot/essentials,"[google, junit, testing]",0.75
+maxmind/geoip-api-java,stateless4j/stateless4j,"[junit, mock, mocking, testing]",1.0
+cucumber-attic/gherkin2,zeromq/jzmq,"[junit, mocking, testing]",0.75
+neophob/PixelController,redis/jedis,"[apache, api, bridge, commons, junit, logging, mock, mocking, slf4j, testing]",0.71
+MarkShen1992/Mashibing_High_Concurrency,lbehnke/hierarchical-clustering-java,"[io, junit, testing]",0.75
+TooTallNate/Java-WebSocket,fluent/fluent-logger-java,"[api, junit, logging, slf4j, testing]",0.71
+conversant/disruptor,fluent/fluent-logger-java,"[api, junit, logging, slf4j, testing]",0.83
+conversant/disruptor,grundid/nfctools,"[api, junit, logging, slf4j, testing]",0.83
+HyDevelop/PicqBotX,JodaOrg/joda-time,"[junit, testing]",1.0
+amaembo/streamex,arturmkrtchyan/iban4j,"[benchmark, junit, performance, testing]",0.8
+mangstadt/biweekly,opendatalab-de/geojson-jackson,"[binding, json, junit, mock, mocking, testing]",0.75
+JodaOrg/joda-time,NoCheatPlus/NoCheatPlus,"[junit, testing]",1.0
+gturri/aXMLRPC,petitparser/java-petitparser,"[github, junit, testing]",0.75
+temyers/cucumber-jvm-parallel-plugin,trivago/cucable-plugin,"[annotations, apache, api, build, build-system, codehaus, commons, engine, expression, io, junit, maven, mock, mocking, model, plugin, testing, tools]",0.72
+AdoptOpenJDK/openjdk-jdk,openjdk/loom,"[api, file-system, ide, interface, junit, layout, loader, module, netbeans, swing, testing, ui, visual]",0.81
+jfree/jfreesvg,redfx-quantum/strange,"[api, engine, junit, testing]",1.0
+depsypher/pngtastic,threerings/getdown,"[ant, apache, build, junit, testing, tools]",0.75
+gardncl/elements-of-programming-interviews,svendiedrichsen/jollyday,"[junit, matching, mock, mocking, testing]",0.71
+ThreeTen/threeten-extra,unitsofmeasurement/unit-api,"[api, engine, junit, testing]",0.8
+JodaOrg/joda-time,zeromq/jeromq,"[junit, testing]",1.0
+abstractj/kalium,jnr/jnr-posix,"[github, junit, native, testing]",1.0
+apache/jclouds,jclouds/jclouds,"[amazon, analysis, annotations, apache, api, appengine, assertion, authentication, aws, build, build-system, client, cloud, cloudstack, computing, connector, date, dependency-injection, digitalocean, dns, docker, driver, eclipse, encryption, engine, extension, factory, framework, github, google, http, io, javax, jetty, json, logging, maven, metrics, mocking, monitoring, netty, network, oauth, openstack, osgi, provider, quality, s3, sdk, security, server, service, slf4j, socket, specs, ssh, standard, storage, stub, testing, testng, time, web, webserver, yaml]",0.97
+albfernandez/juniversalchardet,j256/two-factor-auth,"[base64, codec, encoding, junit, testing]",1.0
+pytorch/serve,sealedtx/java-youtube-downloader,"[json, junit, mock, mocking, testing]",0.71
+JodaOrg/joda-time,giltene/jHiccup,"[junit, testing]",1.0
+openjdk/panama-foreign,openjdk/valhalla,"[api, file-system, ide, interface, junit, layout, loader, module, netbeans, swing, testing, ui, visual]",1.0
+andytill/erlyberly,dlsc-software-consulting-gmbh/FormsFX,"[junit, testing]",1.0
+amaembo/streamex,arteam/100-Java-Concurrency-questions,"[benchmark, generator, junit, performance, testing]",1.0
+CloudburstMC/Protocol,ThreeTen/threeten-extra,"[api, engine, google, junit, testing]",0.71
+graalvm/simplelanguage,oracle/graal,"[api, compiler, dsl, junit, parser, processor, runtime, sdk, testing]",1.0
+NLPchina/nlp-lang,kokorin/Jaffree,"[apache, api, junit, logging, slf4j, testing]",0.75
+beckchr/juel,stefvanschie/IF,"[api, junit, testing]",0.75
+giltene/jHiccup,zeromq/jeromq,"[junit, testing]",1.0
+AdoptOpenJDK/jitwatch,fluent/fluent-logger-java,"[api, junit, logging, slf4j, testing]",0.83
+arturmkrtchyan/iban4j,thomasmueller/minperf,"[benchmark, junit, performance, testing]",0.8
+pytorch/serve,spotify/futures-extra,"[google, junit, mock, mocking, testing]",0.71
+bitkylin/ClusterDeviceControlPlatform,twitter-archive/cloudhopper-smpp,"[framework, io, junit, logging, netty, network, socket, testing]",0.73
+aionnetwork/aion,julman99/gson-fire,"[google, junit, testing]",0.75
+McFoggy/cssfx,jfree/jfreechart,"[engine, junit, testing]",0.75
+apavlo/h-store,cucumber-attic/gherkin2,"[junit, mocking, testing]",0.75
+TheHolyWaffle/TeamSpeak-3-Java-API,guxingke/mini-jvm,"[junit, logging, slf4j, testing]",0.8
+TheHolyWaffle/TeamSpeak-3-Java-API,tzaeschke/ode4j,"[api, junit, logging, slf4j, testing]",1.0
+NLPchina/nlp-lang,vasia/gelly-streaming,"[apache, junit, logging, slf4j, testing]",0.71
+eclipsesource/J2V8,stleary/JSON-java,"[junit, mock, mocking, testing]",0.8
+xiaolongzuo/everyone-java-blog,xiaolongzuo/niubi-job,"[amqp, aop, apache, api, aspect, beans, bridge, client, connector, coordination, database, dependency-injection, distributed, driver, embedded, exception, framework, google, hibernate, javax, jdbc, json, jsp, junit, logging, mapping, message, mock, mocking, mvc, mysql, orm, persistence, pooling, queue, relational, scheduling, security, servlet, slf4j, specs, spring, sql, standard, starter, support, testing, transaction, upload, web, xml, zookeeper]",0.81
+apache/commons-pool,dunwu/javacore,[bytecode],1.0
+AdoptOpenJDK/jitwatch,TheHolyWaffle/TeamSpeak-3-Java-API,"[api, junit, logging, slf4j, testing]",1.0
+MarkShen1992/Mashibing_High_Concurrency,jsonzou/jmockdata,"[json, junit, testing]",0.75
+NLPchina/nlp-lang,TooTallNate/Java-WebSocket,"[api, junit, logging, slf4j, testing]",0.71
+HdrHistogram/HdrHistogram,amaembo/streamex,"[benchmark, generator, junit, performance, testing]",0.71
+openjdk/jdk,openjdk/valhalla,"[api, file-system, ide, interface, junit, layout, loader, module, netbeans, swing, testing, ui, visual]",1.0
+stleary/JSON-java,tbsalling/aismessages,"[junit, mock, mocking, testing]",0.8
+alexo/wro4j,wro4j/wro4j,"[ant, apache, api, assets, bridge, build, build-system, codehaus, command, commons, compiler, css, execution, extension, external, font, github, google, io, javascript, javax, jquery, json, jsp, junit, logging, maven, mock, mocking, model, plugin, pooling, process, ruby, scripting, servlet, slf4j, specs, standard, styles, testing, tools, web]",0.81
+AgNO3/jcifs-ng,codelibs/jcifs,"[annotations, api, bridge, javax, junit, logging, mock, mocking, servlet, slf4j, specs, standard, testing]",0.93
+TheHolyWaffle/TeamSpeak-3-Java-API,conversant/disruptor,"[api, junit, logging, slf4j, testing]",1.0
+awslabs/multi-model-server,stateless4j/stateless4j,"[junit, mock, mocking, testing]",1.0
+YahooArchive/samoa,apache/incubator-samoa,"[annotations, apache, api, bridge, broker, commons, concurrency, coordination, csv, distributed, file-system, github, google, hadoop, io, junit, kafka, logging, management, message, metrics, mocking, monitoring, performance, processing, serialization, slf4j, storage, stream, streaming, tabular, testing, yarn, zookeeper]",0.74
+gary-rowe/hid4java,jnr/jnr-posix,"[junit, native, testing]",0.75
+tzaeschke/ode4j,zeroturnaround/zt-zip,"[api, junit, logging, slf4j, testing]",0.83
+alibaba/cooma,hoijui/JavaOSC,"[api, bridge, junit, logging, slf4j, testing]",0.86
+google/gson,patriques82/alphavantage4j,"[annotations, api, google, javax, json, junit, specs, standard, testing]",0.75
+abel533/ECharts,vdurmont/emoji-java,"[json, junit, testing]",0.75
+romankh3/image-comparison,verhas/License3j,"[api, junit, mock, mocking, testing]",0.83
+oracle/pgql-lang,ozlerhakan/poiji,"[apache, junit, testing]",0.75
+HyDevelop/PicqBotX,irmen/Pyrolite,"[junit, testing]",1.0
+jcbvm/i18n-editor,splunk/splunk-library-javalogging,"[apache, commons, google, json, junit, logging, slf4j, testing]",0.73
+TNG/JGiven,jeluard/semantic-versioning,"[apache, api, build, build-system, junit, maven, model, plugin, testing, tools]",0.71
+jitlogic/zorka,roundrop/facebook4j,"[api, junit, logging, slf4j, testing]",0.71
+conversant/disruptor,tzaeschke/ode4j,"[api, junit, logging, slf4j, testing]",1.0
+grundid/nfctools,kiegroup/droolsjbpm-knowledge,"[bridge, junit, logging, slf4j, testing]",0.83
+Thomas-S-B/visualee,warmuuh/libsass-maven-plugin,"[apache, api, build, build-system, junit, maven, model, plugin, testing, tools]",0.71
+SQLDroid/SQLDroid,ahorn/android-rss,"[android, google, junit, platform, testing]",0.71
+arangodb/arangodb-java-driver,thiagolocatelli/parse4j,"[apache, api, base64, client, codec, encoding, http, junit, logging, slf4j, testing]",0.79
+roundrop/facebook4j,sofastack/sofa-common-tools,"[api, bridge, junit, logging, slf4j, testing]",0.75
+Esri/geometry-api-java,vdurmont/emoji-java,"[json, junit, testing]",1.0
+conversant/disruptor,j256/simplemagic,"[api, junit, logging, slf4j, testing]",0.71
+MGunlogson/CuckooFilter4J,joshjdevl/libsodium-jni,"[google, junit, testing]",1.0
+RobotiumTech/robotium,geometer/FBReaderJ,"[android, google, platform, support]",0.8
+RoboBinding/RoboBinding,mttkay/ignition,"[android, aop, aspect, collections, google, junit, matching, platform, structures, testing]",0.71
+albfernandez/juniversalchardet,harrywfl/JavaGuide,"[base64, codec, encoding, junit, testing]",0.83
+oracle/pgql-lang,thrau/jarchivelib,"[apache, commons, junit, testing]",0.8
+Whiley/WhileyCompiler,janino-compiler/janino,"[ant, build, junit, testing, tools]",0.83
+FasterXML/aalto-xml,FasterXML/jackson-dataformat-xml,"[api, codehaus, streaming, xml]",0.8
+ctongfei/progressbar,jhg023/SimpleNet,"[api, engine, junit, logging, slf4j, testing]",0.75
+conversant/disruptor,jhg023/SimpleNet,"[api, junit, logging, slf4j, testing]",0.71
+grundid/nfctools,tzaeschke/ode4j,"[api, junit, logging, slf4j, testing]",0.83
+Password4j/password4j,j256/simplemagic,"[apache, api, junit, logging, slf4j, testing]",0.75
+kokorin/Jaffree,zeroturnaround/zt-zip,"[api, bridge, junit, logging, slf4j, testing]",0.75
+roundrop/facebook4j,streamsets/tutorials,"[api, bridge, junit, logging, slf4j, testing]",0.75
+amaembo/streamex,uber/h3-java,"[benchmark, generator, junit, performance, testing]",0.83
+aikar/commands,verhas/License3j,"[api, engine, junit, mock, mocking, testing]",0.75
+opendatalab-de/geojson-jackson,stleary/JSON-java,"[json, junit, mock, mocking, testing]",0.71
+firebase/firebase-admin-java,hap-java/HAP-Java,"[api, codec, http, io, javax, junit, logging, mock, mocking, netty, network, slf4j, socket, specs, standard, testing, transport]",0.71
+JodaOrg/joda-time,dlsc-software-consulting-gmbh/FormsFX,"[junit, testing]",1.0
+giltene/jHiccup,mpatric/mp3agic,"[junit, testing]",1.0
+aleksandr-m/gitflow-maven-plugin,lukaszlenart/launch4j-maven-plugin,"[annotations, apache, api, build, build-system, junit, maven, model, plugin, testing, tools]",0.79
+201206030/fiction_house,xuxueli/xxl-api,"[apache, client, connector, database, driver, http, mysql, persistence, spring, starter]",0.77
+Hakky54/log-captor,pivovarit/throwing-function,"[api, assertion, engine, junit, logging, quality, slf4j, testing]",0.73
+irmen/Pyrolite,taksan/skype-java-api,"[junit, testing]",1.0
+arteam/100-Java-Concurrency-questions,thomasmueller/minperf,"[benchmark, generator, junit, performance, testing]",1.0
+LinShunKang/MyPerf4J,ObjectLayout/ObjectLayout,"[benchmark, generator, junit, performance, testing]",0.83
+apache/commons-fileupload,eBay/cors-filter,"[api, javax, junit, servlet, specs, standard, testing]",0.78
+hoijui/JavaOSC,streamsets/tutorials,"[api, bridge, junit, logging, slf4j, testing]",0.75
+apache/commons-imaging,fordfrog/apgdiff,"[junit, matching, testing]",0.75
+greenrobot/essentials,joshjdevl/libsodium-jni,"[google, junit, testing]",0.75
+JMCuixy/swagger2word,cheese10yun/spring-guide,"[api, io, swagger, ui]",1.0
+Brettflan/WorldBorder,szerhusenBC/jwt-spring-security-demo,"[api, io]",1.0
+mangstadt/biweekly,spoofzu/DeepViolet,"[binding, json, junit, mock, mocking, testing]",0.75
+ls1intum/Artemis,usb4java/usb4java,"[apache, commons, testing]",0.75
+TooTallNate/Java-WebSocket,whitesock/open-replicator,"[api, junit, logging, slf4j, testing]",0.83
+javadev/underscore-java,jnr/jnr-posix,"[github, junit, testing]",0.75
+TimMoore/mojo-executor,luontola/retrolambda,"[annotations, apache, api, build, build-system, codehaus, junit, matching, maven, mock, mocking, model, plugin, testing, tools]",0.71
+cucumber-attic/gherkin2,vdurmont/semver4j,"[junit, mock, mocking, testing]",1.0
+kaitoy/pcap4j,whitesock/open-replicator,"[api, junit, logging, slf4j, testing]",0.71
+gardncl/elements-of-programming-interviews,palatable/lambda,"[matching, mock, mocking, testing]",0.8
+JodaOrg/joda-money,mpatric/mp3agic,"[junit, testing]",1.0
+apache/commons-dbutils,svendiedrichsen/jollyday,"[junit, matching, mock, mocking, testing]",0.71
+NLPchina/nlp-lang,boncey/Flickr4Java,"[api, junit, logging, slf4j, testing]",0.71
+conversant/disruptor,hoijui/JavaOSC,"[api, junit, logging, slf4j, testing]",0.83
+FastFilter/fastfilter_java,ObjectLayout/ObjectLayout,"[benchmark, generator, junit, performance, testing]",0.71
+JodaOrg/joda-money,andytill/erlyberly,"[junit, testing]",1.0
+hoijui/JavaOSC,zeroturnaround/zt-zip,"[api, bridge, junit, logging, slf4j, testing]",1.0
+JodaOrg/joda-money,giltene/jHiccup,"[junit, testing]",1.0
+eBay/cors-filter,tbroyer/gwt-maven-archetypes,"[api, javax, servlet, specs, standard]",0.71
+SpoutDev/Vanilla,spotify/futures-extra,"[api, google, junit, mock, mocking, testing]",0.75
+AlmasB/FXTutorials,jjenkov/javafx-examples,"[graphics, swing, ui]",0.75
+OfficeDev/ews-java-api,citerus/bookstore-cqrs-example,"[apache, api, client, commons, date, http, io, junit, logging, matching, mock, mocking, slf4j, testing, time]",0.79
+dpaukov/combinatoricslib3,square/pollexor,"[assertion, junit, quality, testing, validation]",0.71
+eclipsesource/J2V8,tbsalling/aismessages,"[junit, mock, mocking, testing]",1.0
+patriques82/alphavantage4j,reinert/JJSchema,"[annotations, api, javax, json, junit, specs, standard, testing]",0.73
+pytorch/serve,spotify/trickle,"[google, junit, mock, mocking, testing]",0.71
+Polve/bitcoin-rpc-client,usb4java/usb4java,"[apache, commons, junit, testing]",1.0
+TNG/JGiven,tada/pljava,"[annotations, apache, api, build, build-system, junit, maven, plugin, testing, tools]",0.77
+jhonnymertz/java-wkhtmltopdf-wrapper,zeroturnaround/zt-exec,"[apache, api, commons, io, junit, logging, slf4j, testing]",0.73
+mscharhag/oleaster,shekhargulati/99-problems,"[junit, matching, testing]",0.75
+McFoggy/cssfx,jfree/jfreesvg,"[engine, junit, testing]",0.75
+fluent/fluent-logger-java,hoijui/JavaOSC,"[api, junit, logging, slf4j, testing]",0.71
+j256/simplemagic,whitesock/open-replicator,"[api, junit, logging, slf4j, testing]",0.71
+fasseg/exp4j,graylog-labs/graylog-plugin-slack,"[junit, logging, testing]",0.75
+eclipse-ee4j/glassfish,javaee/glassfish,"[admin, agent, ajax, annotations, ant, apache, api, authentication, batch, beans, binding, bootstrap, build, build-system, bundle, bytecode, cache, cli, client, cluster, codehaus, command-line, compiler, concurrent, config, connector, console, container, database, dependency-injection, deployment, description, descriptor, distribution, driver, eclipse, ejb, embedded, export, extension, framework, generator, help, hibernate, html, htmlunit, http, ibm, integration, interactive, interface, io, javaee, javax, jaxrs, jboss, jca, jdbc, jms, jpa, jsf, json, jsp, junit, launcher, logging, mail, management, mapping, maven, messaging, metadata, mocking, model, module, monitoring, mvc, mysql, naming, native, network, osgi, parser, persistence, platform, plugin, processor, provider, queue, reflection, remote, resource, rest, runtime, schema, security, selenium, server, service, servlet, shell, soap, specs, sql, ssh, ssl, standard, stats, streaming, support, tcp, terminal, testing, testng, tools, transaction, validation, web, webservice, websocket, xml]",0.9
+apache/commons-beanutils,fasseg/exp4j,"[junit, logging, testing]",0.75
+irmen/Pyrolite,zeromq/jeromq,"[junit, testing]",1.0
+JetBrains/intellij-plugins,vanilladb/vanillacore,"[io, junit, testing]",1.0
+arteam/100-Java-Concurrency-questions,robinst/autolink-java,"[benchmark, junit, performance, testing]",0.8
+moditect/deptective,square/protoparser,"[assertion, google, junit, quality, testing]",0.71
+JakeWharton/DiskLruCache,qmx/jitescript,"[assertion, junit, quality, testing, validation]",0.71
+BedwarsRel/BedwarsRel,DomHeal/JavaFX-Chat,"[api, logging, slf4j]",0.75
+ktuukkan/marine-api,mpatric/mp3agic,"[junit, testing]",1.0
+pytorch/serve,stleary/JSON-java,"[json, junit, mock, mocking, testing]",0.83
+dlsc-software-consulting-gmbh/FormsFX,luaj/luaj,"[junit, testing]",1.0
+geometer/FBReader-Android-2,geometer/FBReaderJ,"[android, google, platform, support]",1.0
+rschreijer/lutung,windy1/google-places-api-java,"[apache, client, http, io, json, junit, testing]",0.78
+moditect/deptective,square/burst,"[assertion, google, junit, quality, testing]",0.71
+SAP/SapMachine,openjdk/panama-foreign,"[api, file-system, ide, interface, junit, layout, loader, module, netbeans, swing, testing, ui, visual]",1.0
+Password4j/password4j,zeroturnaround/zt-exec,"[apache, api, commons, junit, logging, slf4j, testing]",0.88
+ipfs-shipyard/java-ipfs-http-client,poetix/protonpack,"[junit, matching, testing]",0.75
+gwtbootstrap3/gwtbootstrap3,samskivert/jmustache,"[framework, google, gwt, junit, testing, ui, web]",0.88
+fordfrog/apgdiff,mscharhag/oleaster,"[junit, matching, testing]",0.75
+JodaOrg/joda-beans,aionnetwork/aion,"[google, junit, testing]",1.0
+MarkShen1992/Mashibing_High_Concurrency,cucumber/cucumber-java-skeleton,"[io, junit, testing]",0.75
+dkunzler/esperandro,sockeqwe/fragmentargs,"[android, annotations, api, google, junit, mock, mocking, platform, testing]",0.75
+Polve/bitcoin-rpc-client,oracle/pgql-lang,"[apache, commons, junit, testing]",1.0
+GwtMaterialDesign/gwt-material,samskivert/jmustache,"[framework, google, gwt, junit, testing, ui, web]",0.78
+redfx-quantum/strange,unitsofmeasurement/unit-api,"[api, engine, junit, testing]",1.0
+ls1intum/Artemis,oracle/pgql-lang,"[apache, commons, testing]",0.75
+TooTallNate/Java-WebSocket,conversant/disruptor,"[api, junit, logging, slf4j, testing]",0.83
+dlsc-software-consulting-gmbh/FormsFX,taksan/skype-java-api,"[junit, testing]",1.0
+awslabs/multi-model-server,zeromq/jzmq,"[junit, mocking, testing]",0.75
+romankh3/image-comparison,stateless4j/stateless4j,"[junit, mock, mocking, testing]",0.8
+huaban/jieba-analysis,ls1intum/Artemis,"[apache, commons, testing]",0.75
+google/google-java-format,mbax/VanishNoPacket,"[analysis, defect, junit, metadata, testing]",0.71
+eclipsesource/J2V8,romankh3/image-comparison,"[junit, mock, mocking, testing]",0.8
+ipfs-shipyard/java-ipfs-http-client,shekhargulati/99-problems,"[junit, matching, testing]",0.75
+alibaba/cooma,tzaeschke/ode4j,"[api, junit, logging, slf4j, testing]",0.71
+Password4j/password4j,whitesock/open-replicator,"[api, junit, logging, slf4j, testing]",0.71
+kiegroup/droolsjbpm-knowledge,roundrop/facebook4j,"[bridge, junit, logging, slf4j, testing]",0.83
+NLPchina/nlp-lang,j256/simplemagic,"[apache, api, junit, logging, slf4j, testing]",0.86
+grundid/nfctools,javadelight/delight-nashorn-sandbox,"[api, bridge, junit, logging, slf4j, testing]",0.75
+sofastack/sofa-common-tools,vasia/gelly-streaming,"[apache, bridge, junit, logging, slf4j, testing]",0.75
+JodaOrg/joda-time,ktuukkan/marine-api,"[junit, testing]",1.0
+eclipsesource/J2V8,zeromq/jzmq,"[junit, mocking, testing]",0.75
+eclipsesource/J2V8,maxmind/geoip-api-java,"[junit, mock, mocking, testing]",1.0
+TheHolyWaffle/TeamSpeak-3-Java-API,jhg023/SimpleNet,"[api, junit, logging, slf4j, testing]",0.71
+JakeWharton/ActionBarSherlock,square/otto,"[android, assertion, google, junit, platform, quality, support, testing, validation]",0.82
+filoghost/HolographicDisplays,lishid/Orebfuscator,[api],1.0
+aleksandr-m/gitflow-maven-plugin,coveooss/fmt-maven-plugin,"[annotations, apache, api, build, build-system, junit, maven, model, plugin, testing, tools]",0.73
+TheHolyWaffle/TeamSpeak-3-Java-API,zeroturnaround/zt-zip,"[api, junit, logging, slf4j, testing]",0.83
+abstractj/kalium,jnr/jnr-unixsocket,"[github, junit, native, testing]",0.8
+JodaOrg/joda-beans,joshjdevl/libsodium-jni,"[google, junit, testing]",1.0
+msteiger/jxmapviewer2,s4/s4,[logging],1.0
+joshjdevl/libsodium-jni,taycaldwell/riot-api-java,"[google, junit, testing]",0.75
+indvd00m/java-ascii-render,verhas/License3j,"[api, junit, mock, mocking, testing]",0.71
+gardncl/elements-of-programming-interviews,stateless4j/stateless4j,"[junit, mock, mocking, testing]",0.8
+fordfrog/apgdiff,poetix/protonpack,"[junit, matching, testing]",1.0
+NoCheatPlus/NoCheatPlus,andytill/erlyberly,"[junit, testing]",1.0
+depsypher/pngtastic,wildfly/jandex,"[ant, apache, build, junit, testing, tools]",0.75
+jfree/jfreechart,unitsofmeasurement/unit-api,"[api, engine, junit, testing]",1.0
+DenizenScript/Denizen,mcmonkeyprojects/Sentinel,"[api, json]",1.0
+ktuukkan/marine-api,zeromq/jeromq,"[junit, testing]",1.0
