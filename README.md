@@ -39,3 +39,6 @@ Characterizes abstractions of repositories and visualizes the repositories.
 # Software
 * Java 11 (Maven project)
 * Python 3.9.6 (plotly==5.1.0, pyspark==3.1.2)
+
+# Notes
+You need to create a personal access token in your GitHub account and then replace the `USERNAME_AND_TOKEN` in `RepositoriesPicker.java` with your username and token.
